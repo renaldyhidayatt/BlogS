@@ -1,0 +1,6 @@
+[2019-09-01 03:35:53.299] Starting Git Graph ...
+[2019-09-01 03:35:53.778] Using git (version: 2.17.1)
+[2019-09-01 03:35:53.780] Started Git Graph - Ready to use!
+[2019-09-01 03:35:53.780] Searching workspace for new repos ...
+[2019-09-01 03:35:53.827] > git rev-parse --show-toplevel
+[2019-09-01 03:35:54.143] Completed searching workspace for new repos

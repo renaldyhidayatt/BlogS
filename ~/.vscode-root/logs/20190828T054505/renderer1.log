@@ -1,0 +1,13 @@
+[2019-08-28 05:45:26.276] [renderer1] [error] Error: [File Watcher (chockidar)] Inotify limit reached (ENOSPC)
+[2019-08-28 05:45:26.374] [renderer1] [error] [File Watcher (chockidar)] Inotify limit reached (ENOSPC)
+[2019-08-28 05:45:48.766] [renderer1] [error] Error: [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/var/www/html/laravel/terakhir_cms/.vscode'
+[2019-08-28 05:45:48.767] [renderer1] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/var/www/html/laravel/terakhir_cms/.vscode'
+[2019-08-28 07:49:50.690] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:346:965)
+	at new C (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:346:914)
+	at new C (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:335:813)
+	at asSymbolInformation (/home/darkof/.vscode/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:347:22)
+	at values.map.information (/home/darkof/.vscode/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:336:42)
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/home/darkof/.vscode/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:336:23)
+	at registerLanguageProvider.client.sendRequest.then (/home/darkof/.vscode/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/client.js:1002:62)

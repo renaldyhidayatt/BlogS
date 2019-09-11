@@ -1,0 +1,22 @@
+Initializing document watcher...
+Detected change in configuration: {}
+/var/www/html/laravel/laravel-cms-2019-master/resources/views/posts/index.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts_old/index.blade.php: {"insertSpaces":true,"tabSize":4}
+/var/www/html/laravel/laravel-cms-2019-master/resources/views/posts/create.blade.php: {"insertSpaces":true,"tabSize":4}
+/var/www/html/laravel/laravel-cms-2019-master/app/Post.php: {"insertSpaces":true,"tabSize":4}
+/var/www/html/laravel/laravel-cms-2019-master/app/Post.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/index.blade.php: {"insertSpaces":true,"tabSize":4}
+/var/www/html/laravel/laravel-cms-2019-master/resources/views/posts/create.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/index.blade.php: {"insertSpaces":true,"tabSize":4}
+/var/www/html/laravel/laravel-cms-2019-master/app/Post.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts_old/index.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/index.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/index.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/index.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/app/Http/Controllers/PostsController.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/app/Http/Controllers/PostsController.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/create.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/create.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/routes/web.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/routes/web.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/index.blade.php: {"insertSpaces":true,"tabSize":4}

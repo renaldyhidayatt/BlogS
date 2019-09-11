@@ -1,0 +1,1066 @@
+Initializing document watcher...
+Detected change in configuration: {}
+Detected change in configuration: {}
+terakhir_cms/app/Posts.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/app/Posts.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/app/Posts.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/app/Posts.php: Using EditorConfig core...
+app/Posts.php: setEndOfLine(LF)
+app/Posts.php: editor.action.trimTrailingWhitespace
+terakhir_cms/app/Posts.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/app/Posts.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/app/Posts.php: Using EditorConfig core...
+app/Posts.php: setEndOfLine(LF)
+app/Posts.php: editor.action.trimTrailingWhitespace
+terakhir_cms/app/Posts.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/database/migrations/2019_08_27_012557_create_posts_table.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/database/migrations/2019_08_27_012557_create_posts_table.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/database/migrations/2019_08_27_012557_create_posts_table.php: Using EditorConfig core...
+database/migrations/2019_08_27_012557_create_posts_table.php: setEndOfLine(LF)
+database/migrations/2019_08_27_012557_create_posts_table.php: editor.action.trimTrailingWhitespace
+terakhir_cms/database/migrations/2019_08_27_012557_create_posts_table.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/database/migrations/2019_08_27_012557_create_posts_table.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/database/migrations/2019_08_27_012557_create_posts_table.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/database/migrations/2019_08_27_012557_create_posts_table.php: Using EditorConfig core...
+database/migrations/2019_08_27_012557_create_posts_table.php: setEndOfLine(LF)
+database/migrations/2019_08_27_012557_create_posts_table.php: editor.action.trimTrailingWhitespace
+terakhir_cms/database/migrations/2019_08_27_012557_create_posts_table.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/app/Posts.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/database/migrations/2019_08_27_012557_create_posts_table.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/database/migrations/2019_08_27_012557_create_posts_table.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/database/migrations/2019_08_27_225504_add_soft_delete_to_posts_table.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/database/migrations/2019_08_27_225504_add_soft_delete_to_posts_table.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/database/migrations/2019_08_27_225504_add_soft_delete_to_posts_table.php: Using EditorConfig core...
+database/migrations/2019_08_27_225504_add_soft_delete_to_posts_table.php: setEndOfLine(LF)
+database/migrations/2019_08_27_225504_add_soft_delete_to_posts_table.php: editor.action.trimTrailingWhitespace
+terakhir_cms/database/migrations/2019_08_27_225504_add_soft_delete_to_posts_table.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/database/migrations/2019_08_27_225504_add_soft_delete_to_posts_table.php: Using EditorConfig core...
+database/migrations/2019_08_27_225504_add_soft_delete_to_posts_table.php: setEndOfLine(LF)
+database/migrations/2019_08_27_225504_add_soft_delete_to_posts_table.php: editor.action.trimTrailingWhitespace
+terakhir_cms/database/migrations/2019_08_27_225504_add_soft_delete_to_posts_table.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/index.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/index.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/index.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/index.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/index.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/index.blade.php: Using EditorConfig core...
+resources/views/posts/index.blade.php: setEndOfLine(LF)
+resources/views/posts/index.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/posts/index.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/index.blade.php: Using EditorConfig core...
+resources/views/posts/index.blade.php: setEndOfLine(LF)
+resources/views/posts/index.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/posts/index.blade.php: Using EditorConfig core...
+resources/views/posts/index.blade.php: setEndOfLine(LF)
+resources/views/posts/index.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/posts/index.blade.php: Using EditorConfig core...
+resources/views/posts/index.blade.php: setEndOfLine(LF)
+resources/views/posts/index.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/posts/index.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/index.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/index.blade.php: Using EditorConfig core...
+resources/views/posts/index.blade.php: setEndOfLine(LF)
+resources/views/posts/index.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/posts/index.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/index.blade.php: Using EditorConfig core...
+resources/views/posts/index.blade.php: setEndOfLine(LF)
+resources/views/posts/index.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/posts/index.blade.php: Using EditorConfig core...
+resources/views/posts/index.blade.php: setEndOfLine(LF)
+resources/views/posts/index.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/posts/index.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/index.blade.php: Using EditorConfig core...
+resources/views/posts/index.blade.php: setEndOfLine(LF)
+resources/views/posts/index.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/posts/index.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/index.blade.php: Using EditorConfig core...
+resources/views/posts/index.blade.php: setEndOfLine(LF)
+resources/views/posts/index.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/posts/index.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/app/Http/Controllers/PostsController.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/app/Http/Controllers/PostsController.php: Using EditorConfig core...
+app/Http/Controllers/PostsController.php: setEndOfLine(LF)
+app/Http/Controllers/PostsController.php: editor.action.trimTrailingWhitespace
+terakhir_cms/app/Http/Controllers/PostsController.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/app/Http/Controllers/PostsController.php: Using EditorConfig core...
+app/Http/Controllers/PostsController.php: setEndOfLine(LF)
+app/Http/Controllers/PostsController.php: editor.action.trimTrailingWhitespace
+terakhir_cms/app/Http/Controllers/PostsController.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/app/Http/Controllers/PostsController.php: Using EditorConfig core...
+app/Http/Controllers/PostsController.php: setEndOfLine(LF)
+app/Http/Controllers/PostsController.php: editor.action.trimTrailingWhitespace
+terakhir_cms/app/Http/Controllers/PostsController.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/app/Http/Controllers/PostsController.php: Using EditorConfig core...
+app/Http/Controllers/PostsController.php: setEndOfLine(LF)
+app/Http/Controllers/PostsController.php: editor.action.trimTrailingWhitespace
+terakhir_cms/app/Http/Controllers/PostsController.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/app/Http/Controllers/PostsController.php: Using EditorConfig core...
+app/Http/Controllers/PostsController.php: setEndOfLine(LF)
+app/Http/Controllers/PostsController.php: editor.action.trimTrailingWhitespace
+terakhir_cms/app/Http/Controllers/PostsController.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/app/Http/Controllers/PostsController.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/index.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/index.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/index.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/index.blade.php: Using EditorConfig core...
+resources/views/posts/index.blade.php: setEndOfLine(LF)
+resources/views/posts/index.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/posts/index.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/index.blade.php: Using EditorConfig core...
+resources/views/posts/index.blade.php: setEndOfLine(LF)
+resources/views/posts/index.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/posts/index.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/index.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/index.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/index.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/index.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/index.blade.php: Using EditorConfig core...
+resources/views/posts/index.blade.php: setEndOfLine(LF)
+resources/views/posts/index.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/posts/index.blade.php: Using EditorConfig core...
+resources/views/posts/index.blade.php: setEndOfLine(LF)
+resources/views/posts/index.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/posts/index.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/index.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/database/migrations/2019_08_27_225504_add_soft_delete_to_posts_table.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/database/migrations/2019_08_27_225504_add_soft_delete_to_posts_table.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/database/migrations/2019_08_27_225504_add_soft_delete_to_posts_table.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/index.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/app/Http/Controllers/PostsController.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/app/Http/Controllers/PostsController.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/app/Http/Controllers/PostsController.php: Using EditorConfig core...
+app/Http/Controllers/PostsController.php: setEndOfLine(LF)
+app/Http/Controllers/PostsController.php: editor.action.trimTrailingWhitespace
+terakhir_cms/app/Http/Controllers/PostsController.php: Using EditorConfig core...
+app/Http/Controllers/PostsController.php: setEndOfLine(LF)
+app/Http/Controllers/PostsController.php: editor.action.trimTrailingWhitespace
+terakhir_cms/app/Http/Controllers/PostsController.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/index.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/layouts/app.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/layouts/app.blade.php: Using EditorConfig core...
+resources/views/layouts/app.blade.php: setEndOfLine(LF)
+resources/views/layouts/app.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/layouts/app.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/layouts/app.blade.php: Using EditorConfig core...
+resources/views/layouts/app.blade.php: setEndOfLine(LF)
+resources/views/layouts/app.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/layouts/app.blade.php: Using EditorConfig core...
+resources/views/layouts/app.blade.php: setEndOfLine(LF)
+resources/views/layouts/app.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/layouts/app.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/layouts/app.blade.php: Using EditorConfig core...
+resources/views/layouts/app.blade.php: setEndOfLine(LF)
+resources/views/layouts/app.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/layouts/app.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/layouts/app.blade.php: Using EditorConfig core...
+resources/views/layouts/app.blade.php: setEndOfLine(LF)
+resources/views/layouts/app.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/layouts/app.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/layouts/app.blade.php: Using EditorConfig core...
+resources/views/layouts/app.blade.php: setEndOfLine(LF)
+resources/views/layouts/app.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/layouts/app.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/layouts/app.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/layouts/app.blade.php: Using EditorConfig core...
+resources/views/layouts/app.blade.php: setEndOfLine(LF)
+resources/views/layouts/app.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/layouts/app.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/layouts/app.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/layouts/app.blade.php: Using EditorConfig core...
+resources/views/layouts/app.blade.php: setEndOfLine(LF)
+resources/views/layouts/app.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/layouts/app.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/layouts/app.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/layouts/app.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/layouts/app.blade.php: Using EditorConfig core...
+resources/views/layouts/app.blade.php: setEndOfLine(LF)
+resources/views/layouts/app.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/layouts/app.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/layouts/app.blade.php: Using EditorConfig core...
+resources/views/layouts/app.blade.php: setEndOfLine(LF)
+resources/views/layouts/app.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/layouts/app.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/layouts/app.blade.php: Using EditorConfig core...
+resources/views/layouts/app.blade.php: setEndOfLine(LF)
+resources/views/layouts/app.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/layouts/app.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/layouts/app.blade.php: Using EditorConfig core...
+resources/views/layouts/app.blade.php: setEndOfLine(LF)
+resources/views/layouts/app.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/layouts/app.blade.php: Using EditorConfig core...
+resources/views/layouts/app.blade.php: setEndOfLine(LF)
+resources/views/layouts/app.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/layouts/app.blade.php: Using EditorConfig core...
+resources/views/layouts/app.blade.php: setEndOfLine(LF)
+resources/views/layouts/app.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/layouts/app.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/layouts/app.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/layouts/app.blade.php: Using EditorConfig core...
+resources/views/layouts/app.blade.php: setEndOfLine(LF)
+resources/views/layouts/app.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/layouts/app.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/layouts/app.blade.php: Using EditorConfig core...
+resources/views/layouts/app.blade.php: setEndOfLine(LF)
+resources/views/layouts/app.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/layouts/app.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/layouts/app.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/layouts/app.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/layouts/app.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/layouts/app.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/layouts/app.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/layouts/app.blade.php: Using EditorConfig core...
+resources/views/layouts/app.blade.php: setEndOfLine(LF)
+resources/views/layouts/app.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/layouts/app.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/layouts/app.blade.php: Using EditorConfig core...
+resources/views/layouts/app.blade.php: setEndOfLine(LF)
+resources/views/layouts/app.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/layouts/app.blade.php: Using EditorConfig core...
+resources/views/layouts/app.blade.php: setEndOfLine(LF)
+resources/views/layouts/app.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/layouts/app.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/layouts/app.blade.php: Using EditorConfig core...
+resources/views/layouts/app.blade.php: setEndOfLine(LF)
+resources/views/layouts/app.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/layouts/app.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/layouts/app.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/layouts/app.blade.php: Using EditorConfig core...
+resources/views/layouts/app.blade.php: setEndOfLine(LF)
+resources/views/layouts/app.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/layouts/app.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/layouts/app.blade.php: Using EditorConfig core...
+resources/views/layouts/app.blade.php: setEndOfLine(LF)
+resources/views/layouts/app.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/layouts/app.blade.php: Using EditorConfig core...
+resources/views/layouts/app.blade.php: setEndOfLine(LF)
+resources/views/layouts/app.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/layouts/app.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/layouts/app.blade.php: Using EditorConfig core...
+resources/views/layouts/app.blade.php: setEndOfLine(LF)
+resources/views/layouts/app.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/layouts/app.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/layouts/app.blade.php: Using EditorConfig core...
+resources/views/layouts/app.blade.php: setEndOfLine(LF)
+resources/views/layouts/app.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/layouts/app.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/layouts/app.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/layouts/app.blade.php: Using EditorConfig core...
+resources/views/layouts/app.blade.php: setEndOfLine(LF)
+resources/views/layouts/app.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/layouts/app.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/layouts/app.blade.php: Using EditorConfig core...
+resources/views/layouts/app.blade.php: setEndOfLine(LF)
+resources/views/layouts/app.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/layouts/app.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/layouts/app.blade.php: Using EditorConfig core...
+resources/views/layouts/app.blade.php: setEndOfLine(LF)
+resources/views/layouts/app.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/layouts/app.blade.php: Using EditorConfig core...
+resources/views/layouts/app.blade.php: setEndOfLine(LF)
+resources/views/layouts/app.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/layouts/app.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/layouts/app.blade.php: Using EditorConfig core...
+resources/views/layouts/app.blade.php: setEndOfLine(LF)
+resources/views/layouts/app.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/layouts/app.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/layouts/app.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/layouts/app.blade.php: Using EditorConfig core...
+resources/views/layouts/app.blade.php: setEndOfLine(LF)
+resources/views/layouts/app.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/layouts/app.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/layouts/app.blade.php: Using EditorConfig core...
+resources/views/layouts/app.blade.php: setEndOfLine(LF)
+resources/views/layouts/app.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/layouts/app.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/layouts/app.blade.php: Using EditorConfig core...
+resources/views/layouts/app.blade.php: setEndOfLine(LF)
+resources/views/layouts/app.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/layouts/app.blade.php: Using EditorConfig core...
+resources/views/layouts/app.blade.php: setEndOfLine(LF)
+resources/views/layouts/app.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/layouts/app.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/layouts/app.blade.php: Using EditorConfig core...
+resources/views/layouts/app.blade.php: setEndOfLine(LF)
+resources/views/layouts/app.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/layouts/app.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/layouts/app.blade.php: Using EditorConfig core...
+resources/views/layouts/app.blade.php: setEndOfLine(LF)
+resources/views/layouts/app.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/layouts/app.blade.php: Using EditorConfig core...
+resources/views/layouts/app.blade.php: setEndOfLine(LF)
+resources/views/layouts/app.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/layouts/app.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/layouts/app.blade.php: Using EditorConfig core...
+resources/views/layouts/app.blade.php: setEndOfLine(LF)
+resources/views/layouts/app.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/layouts/app.blade.php: Using EditorConfig core...
+resources/views/layouts/app.blade.php: setEndOfLine(LF)
+resources/views/layouts/app.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/layouts/app.blade.php: Using EditorConfig core...
+resources/views/layouts/app.blade.php: setEndOfLine(LF)
+resources/views/layouts/app.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/layouts/app.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/layouts/app.blade.php: Using EditorConfig core...
+resources/views/layouts/app.blade.php: setEndOfLine(LF)
+resources/views/layouts/app.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/layouts/app.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/layouts/app.blade.php: Using EditorConfig core...
+resources/views/layouts/app.blade.php: setEndOfLine(LF)
+resources/views/layouts/app.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/layouts/app.blade.php: Using EditorConfig core...
+resources/views/layouts/app.blade.php: setEndOfLine(LF)
+resources/views/layouts/app.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/layouts/app.blade.php: Using EditorConfig core...
+resources/views/layouts/app.blade.php: setEndOfLine(LF)
+resources/views/layouts/app.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/layouts/app.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/routes/web.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/routes/web.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/routes/web.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/routes/web.php: Using EditorConfig core...
+routes/web.php: setEndOfLine(LF)
+routes/web.php: editor.action.trimTrailingWhitespace
+terakhir_cms/routes/web.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/routes/web.php: Using EditorConfig core...
+routes/web.php: setEndOfLine(LF)
+routes/web.php: editor.action.trimTrailingWhitespace
+terakhir_cms/routes/web.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/app/Http/Controllers/PostsController.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/app/Http/Controllers/PostsController.php: Using EditorConfig core...
+app/Http/Controllers/PostsController.php: setEndOfLine(LF)
+app/Http/Controllers/PostsController.php: editor.action.trimTrailingWhitespace
+terakhir_cms/app/Http/Controllers/PostsController.php: Using EditorConfig core...
+app/Http/Controllers/PostsController.php: setEndOfLine(LF)
+app/Http/Controllers/PostsController.php: editor.action.trimTrailingWhitespace
+terakhir_cms/app/Http/Controllers/PostsController.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/app/Http/Controllers/PostsController.php: Using EditorConfig core...
+app/Http/Controllers/PostsController.php: setEndOfLine(LF)
+app/Http/Controllers/PostsController.php: editor.action.trimTrailingWhitespace
+terakhir_cms/app/Http/Controllers/PostsController.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/app/Http/Controllers/PostsController.php: Using EditorConfig core...
+app/Http/Controllers/PostsController.php: setEndOfLine(LF)
+app/Http/Controllers/PostsController.php: editor.action.trimTrailingWhitespace
+terakhir_cms/app/Http/Controllers/PostsController.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/app/Http/Controllers/PostsController.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/app/Http/Controllers/PostsController.php: Using EditorConfig core...
+app/Http/Controllers/PostsController.php: setEndOfLine(LF)
+app/Http/Controllers/PostsController.php: editor.action.trimTrailingWhitespace
+terakhir_cms/app/Http/Controllers/PostsController.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/app/Http/Controllers/PostsController.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/app/Http/Controllers/PostsController.php: Using EditorConfig core...
+app/Http/Controllers/PostsController.php: setEndOfLine(LF)
+app/Http/Controllers/PostsController.php: editor.action.trimTrailingWhitespace
+terakhir_cms/app/Http/Controllers/PostsController.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/app/Http/Controllers/PostsController.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/app/Http/Controllers/PostsController.php: Using EditorConfig core...
+app/Http/Controllers/PostsController.php: setEndOfLine(LF)
+app/Http/Controllers/PostsController.php: editor.action.trimTrailingWhitespace
+terakhir_cms/app/Http/Controllers/PostsController.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/routes/web.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/routes/web.php: Using EditorConfig core...
+routes/web.php: setEndOfLine(LF)
+routes/web.php: editor.action.trimTrailingWhitespace
+terakhir_cms/routes/web.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/routes/web.php: Using EditorConfig core...
+routes/web.php: setEndOfLine(LF)
+routes/web.php: editor.action.trimTrailingWhitespace
+terakhir_cms/app/Http/Controllers/PostsController.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/layouts/app.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/layouts/app.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/layouts/app.blade.php: Using EditorConfig core...
+resources/views/layouts/app.blade.php: setEndOfLine(LF)
+resources/views/layouts/app.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/layouts/app.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/app/Http/Controllers/PostsController.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/app/Http/Controllers/PostsController.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/app/Http/Controllers/PostsController.php: Using EditorConfig core...
+app/Http/Controllers/PostsController.php: setEndOfLine(LF)
+app/Http/Controllers/PostsController.php: editor.action.trimTrailingWhitespace
+terakhir_cms/app/Http/Controllers/PostsController.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/routes/web.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/routes/web.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/routes/web.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/routes/web.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/routes/web.php: Using EditorConfig core...
+routes/web.php: setEndOfLine(LF)
+routes/web.php: editor.action.trimTrailingWhitespace
+terakhir_cms/routes/web.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/routes/web.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/app/Http/Controllers/PostsController.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/layouts/app.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/index.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/index.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/index.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/index.blade.php: Using EditorConfig core...
+resources/views/posts/index.blade.php: setEndOfLine(LF)
+resources/views/posts/index.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/posts/index.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/index.blade.php: Using EditorConfig core...
+resources/views/posts/index.blade.php: setEndOfLine(LF)
+resources/views/posts/index.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/posts/index.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/index.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/index.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/index.blade.php: Using EditorConfig core...
+resources/views/posts/index.blade.php: setEndOfLine(LF)
+resources/views/posts/index.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/posts/index.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/index.blade.php: Using EditorConfig core...
+resources/views/posts/index.blade.php: setEndOfLine(LF)
+resources/views/posts/index.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/posts/index.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/index.blade.php: Using EditorConfig core...
+resources/views/posts/index.blade.php: setEndOfLine(LF)
+resources/views/posts/index.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/app/Http/Controllers/PostsController.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/app/Http/Controllers/PostsController.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/app/Http/Controllers/PostsController.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/app/Http/Controllers/PostsController.php: Using EditorConfig core...
+app/Http/Controllers/PostsController.php: setEndOfLine(LF)
+app/Http/Controllers/PostsController.php: editor.action.trimTrailingWhitespace
+terakhir_cms/app/Http/Controllers/PostsController.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/app/Http/Controllers/PostsController.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/app/Http/Controllers/PostsController.php: Using EditorConfig core...
+app/Http/Controllers/PostsController.php: setEndOfLine(LF)
+app/Http/Controllers/PostsController.php: editor.action.trimTrailingWhitespace
+terakhir_cms/app/Http/Controllers/PostsController.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/app/Http/Controllers/PostsController.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/app/Http/Controllers/PostsController.php: Using EditorConfig core...
+app/Http/Controllers/PostsController.php: setEndOfLine(LF)
+app/Http/Controllers/PostsController.php: editor.action.trimTrailingWhitespace
+terakhir_cms/app/Http/Controllers/PostsController.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/app/Http/Controllers/PostsController.php: Using EditorConfig core...
+app/Http/Controllers/PostsController.php: setEndOfLine(LF)
+app/Http/Controllers/PostsController.php: editor.action.trimTrailingWhitespace
+terakhir_cms/app/Http/Controllers/PostsController.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/app/Http/Controllers/PostsController.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/app/Http/Controllers/PostsController.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/app/Http/Controllers/PostsController.php: Using EditorConfig core...
+app/Http/Controllers/PostsController.php: setEndOfLine(LF)
+app/Http/Controllers/PostsController.php: editor.action.trimTrailingWhitespace
+terakhir_cms/app/Http/Controllers/PostsController.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/routes/web.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/routes/web.php: Using EditorConfig core...
+routes/web.php: setEndOfLine(LF)
+routes/web.php: editor.action.trimTrailingWhitespace
+terakhir_cms/routes/web.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/app/Http/Controllers/PostsController.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/app/Http/Controllers/PostsController.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/app/Http/Controllers/PostsController.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/app/Http/Controllers/PostsController.php: Using EditorConfig core...
+app/Http/Controllers/PostsController.php: setEndOfLine(LF)
+app/Http/Controllers/PostsController.php: editor.action.trimTrailingWhitespace
+terakhir_cms/app/Http/Controllers/PostsController.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/index.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/index.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/index.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/index.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/index.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/index.blade.php: Using EditorConfig core...
+resources/views/posts/index.blade.php: setEndOfLine(LF)
+resources/views/posts/index.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/posts/index.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/index.blade.php: Using EditorConfig core...
+resources/views/posts/index.blade.php: setEndOfLine(LF)
+resources/views/posts/index.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/posts/index.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/index.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/index.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/index.blade.php: Using EditorConfig core...
+resources/views/posts/index.blade.php: setEndOfLine(LF)
+resources/views/posts/index.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/posts/index.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/categories/index.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/categories/index.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/index.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/categories/index.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/categories/index.blade.php: Using EditorConfig core...
+resources/views/categories/index.blade.php: setEndOfLine(LF)
+resources/views/categories/index.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/posts/index.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/categories/index.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/categories/index.blade.php: Using EditorConfig core...
+resources/views/categories/index.blade.php: setEndOfLine(LF)
+resources/views/categories/index.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/categories/index.blade.php: Using EditorConfig core...
+resources/views/categories/index.blade.php: setEndOfLine(LF)
+resources/views/categories/index.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/categories/index.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/categories/index.blade.php: Using EditorConfig core...
+resources/views/categories/index.blade.php: setEndOfLine(LF)
+resources/views/categories/index.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/categories/index.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/categories/index.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/categories/index.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/index.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/app/Http/Controllers/PostsController.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/app/Http/Controllers/PostsController.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/app/Http/Controllers/PostsController.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/app/Http/Controllers/PostsController.php: Using EditorConfig core...
+app/Http/Controllers/PostsController.php: setEndOfLine(LF)
+app/Http/Controllers/PostsController.php: editor.action.trimTrailingWhitespace
+terakhir_cms/app/Http/Controllers/PostsController.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/app/Http/Controllers/PostsController.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/app/Http/Controllers/PostsController.php: Using EditorConfig core...
+app/Http/Controllers/PostsController.php: setEndOfLine(LF)
+app/Http/Controllers/PostsController.php: editor.action.trimTrailingWhitespace
+terakhir_cms/app/Http/Controllers/PostsController.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/app/Http/Controllers/PostsController.php: {"insertSpaces":true,"tabSize":4}
+No more open editors.
+terakhir_cms/app/Http/Controllers/PostsController.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/app/Http/Controllers/PostsController.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/app/Http/Controllers/PostsController.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/app/Http/Controllers/PostsController.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/app/Http/Controllers/PostsController.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/app/Http/Controllers/PostsController.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/index.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/create.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/create.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/create.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/create.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/create.blade.php: Using EditorConfig core...
+resources/views/posts/create.blade.php: setEndOfLine(LF)
+resources/views/posts/create.blade.php: editor.action.trimTrailingWhitespace
+resources/views/posts/create.blade.php: insertFinalNewline(LF)
+terakhir_cms/resources/views/posts/create.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/categories/index.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/layouts/app.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/layouts/app.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/layouts/app.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/layouts/app.blade.php: Using EditorConfig core...
+resources/views/layouts/app.blade.php: setEndOfLine(LF)
+resources/views/layouts/app.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/layouts/app.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/create.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/create.blade.php: Using EditorConfig core...
+resources/views/posts/create.blade.php: setEndOfLine(LF)
+resources/views/posts/create.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/posts/create.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/create.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/create.blade.php: Using EditorConfig core...
+resources/views/posts/create.blade.php: setEndOfLine(LF)
+resources/views/posts/create.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/posts/create.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/create.blade.php: Using EditorConfig core...
+resources/views/posts/create.blade.php: setEndOfLine(LF)
+resources/views/posts/create.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/posts/create.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/create.blade.php: Using EditorConfig core...
+resources/views/posts/create.blade.php: setEndOfLine(LF)
+resources/views/posts/create.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/posts/create.blade.php: Using EditorConfig core...
+resources/views/posts/create.blade.php: setEndOfLine(LF)
+resources/views/posts/create.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/posts/create.blade.php: Using EditorConfig core...
+resources/views/posts/create.blade.php: setEndOfLine(LF)
+resources/views/posts/create.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/posts/create.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/create.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/create.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/create.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/create.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/create.blade.php: Using EditorConfig core...
+resources/views/posts/create.blade.php: setEndOfLine(LF)
+resources/views/posts/create.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/posts/create.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/layouts/app.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/layouts/app.blade.php: Using EditorConfig core...
+resources/views/layouts/app.blade.php: setEndOfLine(LF)
+resources/views/layouts/app.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/layouts/app.blade.php: Using EditorConfig core...
+resources/views/layouts/app.blade.php: setEndOfLine(LF)
+resources/views/layouts/app.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/layouts/app.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/layouts/app.blade.php: Using EditorConfig core...
+resources/views/layouts/app.blade.php: setEndOfLine(LF)
+resources/views/layouts/app.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/layouts/app.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/layouts/app.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/create.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/create.blade.php: Using EditorConfig core...
+resources/views/posts/create.blade.php: setEndOfLine(LF)
+resources/views/posts/create.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/posts/create.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/categories/index.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/create.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/create.blade.php: Using EditorConfig core...
+resources/views/posts/create.blade.php: setEndOfLine(LF)
+resources/views/posts/create.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/posts/create.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/create.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/create.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/create.blade.php: Using EditorConfig core...
+resources/views/posts/create.blade.php: setEndOfLine(LF)
+resources/views/posts/create.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/posts/create.blade.php: Using EditorConfig core...
+resources/views/posts/create.blade.php: setEndOfLine(LF)
+resources/views/posts/create.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/posts/create.blade.php: Using EditorConfig core...
+resources/views/posts/create.blade.php: setEndOfLine(LF)
+resources/views/posts/create.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/posts/create.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/create.blade.php: Using EditorConfig core...
+resources/views/posts/create.blade.php: setEndOfLine(LF)
+resources/views/posts/create.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/posts/create.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/create.blade.php: Using EditorConfig core...
+resources/views/posts/create.blade.php: setEndOfLine(LF)
+resources/views/posts/create.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/posts/create.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/layouts/app.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/layouts/app.blade.php: Using EditorConfig core...
+resources/views/layouts/app.blade.php: setEndOfLine(LF)
+resources/views/layouts/app.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/layouts/app.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/layouts/app.blade.php: Using EditorConfig core...
+resources/views/layouts/app.blade.php: setEndOfLine(LF)
+resources/views/layouts/app.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/layouts/app.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/layouts/app.blade.php: Using EditorConfig core...
+resources/views/layouts/app.blade.php: setEndOfLine(LF)
+resources/views/layouts/app.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/posts/create.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/create.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/create.blade.php: Using EditorConfig core...
+resources/views/posts/create.blade.php: setEndOfLine(LF)
+resources/views/posts/create.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/posts/create.blade.php: Using EditorConfig core...
+resources/views/posts/create.blade.php: setEndOfLine(LF)
+resources/views/posts/create.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/posts/create.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/create.blade.php: Using EditorConfig core...
+resources/views/posts/create.blade.php: setEndOfLine(LF)
+resources/views/posts/create.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/posts/create.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/layouts/app.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/create.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/create.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/layouts/app.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/layouts/app.blade.php: Using EditorConfig core...
+resources/views/layouts/app.blade.php: setEndOfLine(LF)
+resources/views/layouts/app.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/layouts/app.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/layouts/app.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/categories/index.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/create.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/create.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/create.blade.php: Using EditorConfig core...
+resources/views/posts/create.blade.php: setEndOfLine(LF)
+resources/views/posts/create.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/posts/create.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/layouts/app.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/layouts/app.blade.php: Using EditorConfig core...
+resources/views/layouts/app.blade.php: setEndOfLine(LF)
+resources/views/layouts/app.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/categories/index.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/layouts/app.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/routes/web.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/app/Http/Controllers/PostsController.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/create.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/create.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/create.blade.php: Using EditorConfig core...
+resources/views/posts/create.blade.php: setEndOfLine(LF)
+resources/views/posts/create.blade.php: editor.action.trimTrailingWhitespace
+resources/views/posts/create.blade.php: insertFinalNewline(LF)
+terakhir_cms/resources/views/posts/create.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/layouts/app.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/layouts/app.blade.php: Using EditorConfig core...
+resources/views/layouts/app.blade.php: setEndOfLine(LF)
+resources/views/layouts/app.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/app/Http/Controllers/PostsController.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/routes/web.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/layouts/app.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/categories/index.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/create.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/create.blade.php: Using EditorConfig core...
+resources/views/posts/create.blade.php: setEndOfLine(LF)
+resources/views/posts/create.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/posts/create.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/create.blade.php: Using EditorConfig core...
+resources/views/posts/create.blade.php: setEndOfLine(LF)
+resources/views/posts/create.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/posts/create.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/create.blade.php: Using EditorConfig core...
+resources/views/posts/create.blade.php: setEndOfLine(LF)
+resources/views/posts/create.blade.php: editor.action.trimTrailingWhitespace
+resources/views/posts/create.blade.php: insertFinalNewline(LF)
+terakhir_cms/resources/views/posts/create.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/create.blade.php: Using EditorConfig core...
+resources/views/posts/create.blade.php: setEndOfLine(LF)
+resources/views/posts/create.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/posts/create.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/create.blade.php: Using EditorConfig core...
+resources/views/posts/create.blade.php: setEndOfLine(LF)
+resources/views/posts/create.blade.php: editor.action.trimTrailingWhitespace
+resources/views/posts/create.blade.php: insertFinalNewline(LF)
+terakhir_cms/resources/views/posts/create.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/layouts/app.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/layouts/app.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/layouts/app.blade.php: Using EditorConfig core...
+resources/views/layouts/app.blade.php: setEndOfLine(LF)
+resources/views/layouts/app.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/layouts/app.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/create.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/create.blade.php: Using EditorConfig core...
+resources/views/posts/create.blade.php: setEndOfLine(LF)
+resources/views/posts/create.blade.php: editor.action.trimTrailingWhitespace
+resources/views/posts/create.blade.php: insertFinalNewline(LF)
+terakhir_cms/resources/views/layouts/app.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/layouts/app.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/create.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/create.blade.php: Using EditorConfig core...
+resources/views/posts/create.blade.php: setEndOfLine(LF)
+resources/views/posts/create.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/layouts/app.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/create.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/create.blade.php: Using EditorConfig core...
+resources/views/posts/create.blade.php: setEndOfLine(LF)
+resources/views/posts/create.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/posts/create.blade.php: Using EditorConfig core...
+resources/views/posts/create.blade.php: setEndOfLine(LF)
+resources/views/posts/create.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/posts/create.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/create.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/create.blade.php: Using EditorConfig core...
+resources/views/posts/create.blade.php: setEndOfLine(LF)
+resources/views/posts/create.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/posts/create.blade.php: Using EditorConfig core...
+resources/views/posts/create.blade.php: setEndOfLine(LF)
+resources/views/posts/create.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/posts/create.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/create.blade.php: Using EditorConfig core...
+resources/views/posts/create.blade.php: setEndOfLine(LF)
+resources/views/posts/create.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/posts/create.blade.php: Using EditorConfig core...
+resources/views/posts/create.blade.php: setEndOfLine(LF)
+resources/views/posts/create.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/posts/create.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/layouts/app.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/layouts/app.blade.php: Using EditorConfig core...
+resources/views/layouts/app.blade.php: setEndOfLine(LF)
+resources/views/layouts/app.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/layouts/app.blade.php: Using EditorConfig core...
+resources/views/layouts/app.blade.php: setEndOfLine(LF)
+resources/views/layouts/app.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/layouts/app.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/layouts/app.blade.php: Using EditorConfig core...
+resources/views/layouts/app.blade.php: setEndOfLine(LF)
+resources/views/layouts/app.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/layouts/app.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/layouts/app.blade.php: Using EditorConfig core...
+resources/views/layouts/app.blade.php: setEndOfLine(LF)
+resources/views/layouts/app.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/layouts/app.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/layouts/app.blade.php: Using EditorConfig core...
+resources/views/layouts/app.blade.php: setEndOfLine(LF)
+resources/views/layouts/app.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/layouts/app.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/create.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/create.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/create.blade.php: Using EditorConfig core...
+resources/views/posts/create.blade.php: setEndOfLine(LF)
+resources/views/posts/create.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/posts/create.blade.php: Using EditorConfig core...
+resources/views/posts/create.blade.php: setEndOfLine(LF)
+resources/views/posts/create.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/posts/create.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/create.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/create.blade.php: Using EditorConfig core...
+resources/views/posts/create.blade.php: setEndOfLine(LF)
+resources/views/posts/create.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/posts/create.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/create.blade.php: Using EditorConfig core...
+resources/views/posts/create.blade.php: setEndOfLine(LF)
+resources/views/posts/create.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/posts/create.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/create.blade.php: Using EditorConfig core...
+resources/views/posts/create.blade.php: setEndOfLine(LF)
+resources/views/posts/create.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/posts/create.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/create.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/create.blade.php: Using EditorConfig core...
+resources/views/posts/create.blade.php: setEndOfLine(LF)
+resources/views/posts/create.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/posts/create.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/create.blade.php: Using EditorConfig core...
+resources/views/posts/create.blade.php: setEndOfLine(LF)
+resources/views/posts/create.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/posts/create.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/create.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/create.blade.php: Using EditorConfig core...
+resources/views/posts/create.blade.php: setEndOfLine(LF)
+resources/views/posts/create.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/posts/create.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/create.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/create.blade.php: Using EditorConfig core...
+resources/views/posts/create.blade.php: setEndOfLine(LF)
+resources/views/posts/create.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/posts/create.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/layouts/app.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/app/Http/Controllers/PostsController.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/layouts/app.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/layouts/app.blade.php: Using EditorConfig core...
+resources/views/layouts/app.blade.php: setEndOfLine(LF)
+resources/views/layouts/app.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/layouts/app.blade.php: Using EditorConfig core...
+resources/views/layouts/app.blade.php: setEndOfLine(LF)
+resources/views/layouts/app.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/layouts/app.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/layouts/app.blade.php: Using EditorConfig core...
+resources/views/layouts/app.blade.php: setEndOfLine(LF)
+resources/views/layouts/app.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/layouts/app.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/app/Http/Controllers/PostsController.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/create.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/create.blade.php: Using EditorConfig core...
+resources/views/posts/create.blade.php: setEndOfLine(LF)
+resources/views/posts/create.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/posts/create.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/create.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/create.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/create.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/create.blade.php: Using EditorConfig core...
+resources/views/posts/create.blade.php: setEndOfLine(LF)
+resources/views/posts/create.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/posts/create.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/create.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/create.blade.php: Using EditorConfig core...
+resources/views/posts/create.blade.php: setEndOfLine(LF)
+resources/views/posts/create.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/posts/create.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/create.blade.php: Using EditorConfig core...
+resources/views/posts/create.blade.php: setEndOfLine(LF)
+resources/views/posts/create.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/posts/create.blade.php: Using EditorConfig core...
+resources/views/posts/create.blade.php: setEndOfLine(LF)
+resources/views/posts/create.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/posts/create.blade.php: Using EditorConfig core...
+resources/views/posts/create.blade.php: setEndOfLine(LF)
+resources/views/posts/create.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/posts/create.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/create.blade.php: Using EditorConfig core...
+resources/views/posts/create.blade.php: setEndOfLine(LF)
+resources/views/posts/create.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/posts/create.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/create.blade.php: Using EditorConfig core...
+resources/views/posts/create.blade.php: setEndOfLine(LF)
+resources/views/posts/create.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/posts/create.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/create.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/create.blade.php: Using EditorConfig core...
+resources/views/posts/create.blade.php: setEndOfLine(LF)
+resources/views/posts/create.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/posts/create.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/create.blade.php: Using EditorConfig core...
+resources/views/posts/create.blade.php: setEndOfLine(LF)
+resources/views/posts/create.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/posts/create.blade.php: Using EditorConfig core...
+resources/views/posts/create.blade.php: setEndOfLine(LF)
+resources/views/posts/create.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/posts/create.blade.php: Using EditorConfig core...
+resources/views/posts/create.blade.php: setEndOfLine(LF)
+resources/views/posts/create.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/posts/create.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/create.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/create.blade.php: Using EditorConfig core...
+resources/views/posts/create.blade.php: setEndOfLine(LF)
+resources/views/posts/create.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/posts/create.blade.php: Using EditorConfig core...
+resources/views/posts/create.blade.php: setEndOfLine(LF)
+resources/views/posts/create.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/posts/create.blade.php: Using EditorConfig core...
+resources/views/posts/create.blade.php: setEndOfLine(LF)
+resources/views/posts/create.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/posts/create.blade.php: Using EditorConfig core...
+resources/views/posts/create.blade.php: setEndOfLine(LF)
+resources/views/posts/create.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/posts/create.blade.php: Using EditorConfig core...
+resources/views/posts/create.blade.php: setEndOfLine(LF)
+resources/views/posts/create.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/posts/create.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/create.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/create.blade.php: Using EditorConfig core...
+resources/views/posts/create.blade.php: setEndOfLine(LF)
+resources/views/posts/create.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/posts/create.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/create.blade.php: Using EditorConfig core...
+resources/views/posts/create.blade.php: setEndOfLine(LF)
+resources/views/posts/create.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/posts/create.blade.php: Using EditorConfig core...
+resources/views/posts/create.blade.php: setEndOfLine(LF)
+resources/views/posts/create.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/posts/create.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/create.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/create.blade.php: Using EditorConfig core...
+resources/views/posts/create.blade.php: setEndOfLine(LF)
+resources/views/posts/create.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/posts/create.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/create.blade.php: Using EditorConfig core...
+resources/views/posts/create.blade.php: setEndOfLine(LF)
+resources/views/posts/create.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/posts/create.blade.php: Using EditorConfig core...
+resources/views/posts/create.blade.php: setEndOfLine(LF)
+resources/views/posts/create.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/posts/create.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/create.blade.php: Using EditorConfig core...
+resources/views/posts/create.blade.php: setEndOfLine(LF)
+resources/views/posts/create.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/posts/create.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/create.blade.php: Using EditorConfig core...
+resources/views/posts/create.blade.php: setEndOfLine(LF)
+resources/views/posts/create.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/categories/index.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/layouts/app.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/layouts/app.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/create.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/create.blade.php: Using EditorConfig core...
+resources/views/posts/create.blade.php: setEndOfLine(LF)
+resources/views/posts/create.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/posts/create.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/create.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/create.blade.php: Using EditorConfig core...
+resources/views/posts/create.blade.php: setEndOfLine(LF)
+resources/views/posts/create.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/posts/create.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/create.blade.php: Using EditorConfig core...
+resources/views/posts/create.blade.php: setEndOfLine(LF)
+resources/views/posts/create.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/posts/create.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/create.blade.php: Using EditorConfig core...
+resources/views/posts/create.blade.php: setEndOfLine(LF)
+resources/views/posts/create.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/posts/create.blade.php: Using EditorConfig core...
+resources/views/posts/create.blade.php: setEndOfLine(LF)
+resources/views/posts/create.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/posts/create.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/create.blade.php: Using EditorConfig core...
+resources/views/posts/create.blade.php: setEndOfLine(LF)
+resources/views/posts/create.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/posts/create.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/create.blade.php: Using EditorConfig core...
+resources/views/posts/create.blade.php: setEndOfLine(LF)
+resources/views/posts/create.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/posts/create.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/create.blade.php: Using EditorConfig core...
+resources/views/posts/create.blade.php: setEndOfLine(LF)
+resources/views/posts/create.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/posts/create.blade.php: Using EditorConfig core...
+resources/views/posts/create.blade.php: setEndOfLine(LF)
+resources/views/posts/create.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/posts/create.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/create.blade.php: Using EditorConfig core...
+resources/views/posts/create.blade.php: setEndOfLine(LF)
+resources/views/posts/create.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/posts/create.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/create.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/create.blade.php: Using EditorConfig core...
+resources/views/posts/create.blade.php: setEndOfLine(LF)
+resources/views/posts/create.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/posts/create.blade.php: Using EditorConfig core...
+resources/views/posts/create.blade.php: setEndOfLine(LF)
+resources/views/posts/create.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/posts/create.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/create.blade.php: Using EditorConfig core...
+resources/views/posts/create.blade.php: setEndOfLine(LF)
+resources/views/posts/create.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/posts/create.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/create.blade.php: Using EditorConfig core...
+resources/views/posts/create.blade.php: setEndOfLine(LF)
+resources/views/posts/create.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/posts/create.blade.php: Using EditorConfig core...
+resources/views/posts/create.blade.php: setEndOfLine(LF)
+resources/views/posts/create.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/posts/create.blade.php: Using EditorConfig core...
+resources/views/posts/create.blade.php: setEndOfLine(LF)
+resources/views/posts/create.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/posts/create.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/create.blade.php: Using EditorConfig core...
+resources/views/posts/create.blade.php: setEndOfLine(LF)
+resources/views/posts/create.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/posts/create.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/create.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/create.blade.php: Using EditorConfig core...
+resources/views/posts/create.blade.php: setEndOfLine(LF)
+resources/views/posts/create.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/posts/create.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/create.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/create.blade.php: Using EditorConfig core...
+resources/views/posts/create.blade.php: setEndOfLine(LF)
+resources/views/posts/create.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/posts/create.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/create.blade.php: Using EditorConfig core...
+resources/views/posts/create.blade.php: setEndOfLine(LF)
+resources/views/posts/create.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/posts/create.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/create.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/create.blade.php: Using EditorConfig core...
+resources/views/posts/create.blade.php: setEndOfLine(LF)
+resources/views/posts/create.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/posts/create.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/create.blade.php: Using EditorConfig core...
+resources/views/posts/create.blade.php: setEndOfLine(LF)
+resources/views/posts/create.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/posts/create.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/create.blade.php: Using EditorConfig core...
+resources/views/posts/create.blade.php: setEndOfLine(LF)
+resources/views/posts/create.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/posts/create.blade.php: Using EditorConfig core...
+resources/views/posts/create.blade.php: setEndOfLine(LF)
+resources/views/posts/create.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/posts/create.blade.php: Using EditorConfig core...
+resources/views/posts/create.blade.php: setEndOfLine(LF)
+resources/views/posts/create.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/posts/create.blade.php: Using EditorConfig core...
+resources/views/posts/create.blade.php: setEndOfLine(LF)
+resources/views/posts/create.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/posts/create.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/create.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/app/Http/Controllers/PostsController.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/app/Http/Controllers/PostsController.php: Using EditorConfig core...
+app/Http/Controllers/PostsController.php: setEndOfLine(LF)
+app/Http/Controllers/PostsController.php: editor.action.trimTrailingWhitespace
+terakhir_cms/app/Http/Controllers/PostsController.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/layouts/app.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/create.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/create.blade.php: Using EditorConfig core...
+resources/views/posts/create.blade.php: setEndOfLine(LF)
+resources/views/posts/create.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/posts/create.blade.php: Using EditorConfig core...
+resources/views/posts/create.blade.php: setEndOfLine(LF)
+resources/views/posts/create.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/posts/create.blade.php: Using EditorConfig core...
+resources/views/posts/create.blade.php: setEndOfLine(LF)
+resources/views/posts/create.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/posts/create.blade.php: Using EditorConfig core...
+resources/views/posts/create.blade.php: setEndOfLine(LF)
+resources/views/posts/create.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/posts/create.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/create.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/create.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/create.blade.php: Using EditorConfig core...
+resources/views/posts/create.blade.php: setEndOfLine(LF)
+resources/views/posts/create.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/posts/create.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/create.blade.php: Using EditorConfig core...
+resources/views/posts/create.blade.php: setEndOfLine(LF)
+resources/views/posts/create.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/posts/create.blade.php: Using EditorConfig core...
+resources/views/posts/create.blade.php: setEndOfLine(LF)
+resources/views/posts/create.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/posts/create.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/create.blade.php: Using EditorConfig core...
+resources/views/posts/create.blade.php: setEndOfLine(LF)
+resources/views/posts/create.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/posts/create.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/create.blade.php: Using EditorConfig core...
+resources/views/posts/create.blade.php: setEndOfLine(LF)
+resources/views/posts/create.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/posts/create.blade.php: Using EditorConfig core...
+resources/views/posts/create.blade.php: setEndOfLine(LF)
+resources/views/posts/create.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/posts/create.blade.php: Using EditorConfig core...
+resources/views/posts/create.blade.php: setEndOfLine(LF)
+resources/views/posts/create.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/posts/create.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/create.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/posts/create.blade.php: {"insertSpaces":true,"tabSize":4}

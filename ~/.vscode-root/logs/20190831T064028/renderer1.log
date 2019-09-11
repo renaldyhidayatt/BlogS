@@ -1,0 +1,37 @@
+[2019-08-31 06:40:46.990] [renderer1] [error] Error: [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/var/www/html/laravel/terakhir_cms/.vscode'
+[2019-08-31 06:40:46.991] [renderer1] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/var/www/html/laravel/terakhir_cms/.vscode'
+[2019-08-31 06:40:59.701] [renderer1] [error] Error: [File Watcher (chockidar)] Inotify limit reached (ENOSPC)
+[2019-08-31 06:40:59.730] [renderer1] [error] [File Watcher (chockidar)] Inotify limit reached (ENOSPC)
+[2019-08-31 06:41:11.379] [renderer1] [warning] UNRESPONSIVE extension host, 'GitHub.vscode-pull-request-github' took 96% of 686.999ms, saved PROFILE here: '/tmp/exthost-1c464b.cpuprofile' [{"id":"GitHub.vscode-pull-request-github","total":658132,"percentage":96}]
+[2019-08-31 09:49:19.234] [renderer1] [error] Cannot read property 'name' of null: TypeError: Cannot read property 'name' of null
+	at F (/home/darkof/.vscode/extensions/bmewburn.vscode-intelephense-client-1.2.2/lib/extension.js:1:177141)
+	at F (/home/darkof/.vscode/extensions/bmewburn.vscode-intelephense-client-1.2.2/lib/extension.js:1:177286)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/darkof/.vscode/extensions/bmewburn.vscode-intelephense-client-1.2.2/lib/extension.js:1:181286)
+	at module.exports.registerLanguageProvider.t.sendRequest.then.e (/home/darkof/.vscode/extensions/bmewburn.vscode-intelephense-client-1.2.2/lib/extension.js:1:39665)
+[2019-08-31 09:49:21.366] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:346:965)
+	at new C (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:346:914)
+	at new C (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:335:813)
+	at asSymbolInformation (/home/darkof/.vscode/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:347:22)
+	at values.map.information (/home/darkof/.vscode/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:336:42)
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/home/darkof/.vscode/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:336:23)
+	at registerLanguageProvider.client.sendRequest.then (/home/darkof/.vscode/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/client.js:1002:62)
+[2019-08-31 10:33:57.170] [renderer1] [error] Error: [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/var/www/html/laravel/terakhir_cms/.vscode'
+[2019-08-31 10:33:57.173] [renderer1] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/var/www/html/laravel/terakhir_cms/.vscode'
+[2019-08-31 10:34:03.691] [renderer1] [error] Error: [File Watcher (chockidar)] Inotify limit reached (ENOSPC)
+[2019-08-31 10:34:03.719] [renderer1] [error] [File Watcher (chockidar)] Inotify limit reached (ENOSPC)
+[2019-08-31 10:34:04.362] [renderer1] [warning] UNRESPONSIVE extension host, 'vscode.git' took 68% of 583.409ms, saved PROFILE here: '/tmp/exthost-1c5bbe.cpuprofile' [{"id":"eamodio.gitlens","total":47539,"percentage":8},{"id":"program","total":101,"percentage":0},{"id":"self","total":138614,"percentage":24},{"id":"vscode.git","total":395664,"percentage":68}]
+[2019-08-31 10:34:08.423] [renderer1] [warning] UNRESPONSIVE extension host, 'TzachOvadia.todo-list' took 95% of 553.255ms, saved PROFILE here: '/tmp/exthost-3ae3db.cpuprofile' [{"id":"gc","total":14145,"percentage":3},{"id":"mhutchie.git-graph","total":1084,"percentage":0},{"id":"program","total":17,"percentage":0},{"id":"self","total":796,"percentage":0},{"id":"TzachOvadia.todo-list","total":527709,"percentage":95}]
+[2019-08-31 10:40:05.147] [renderer1] [error] Error: [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/var/www/html/laravel/terakhir_cms/.vscode'
+[2019-08-31 10:40:05.148] [renderer1] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/var/www/html/laravel/terakhir_cms/.vscode'
+[2019-08-31 10:40:08.541] [renderer1] [error] Error: [File Watcher (chockidar)] Inotify limit reached (ENOSPC)
+[2019-08-31 10:40:08.584] [renderer1] [error] [File Watcher (chockidar)] Inotify limit reached (ENOSPC)
+[2019-08-31 10:40:09.522] [renderer1] [warning] UNRESPONSIVE extension host, 'Shan.code-settings-sync' took 54% of 950.171ms, saved PROFILE here: '/tmp/exthost-514cab.cpuprofile' [{"id":"gc","total":31676,"percentage":3},{"id":"program","total":26511,"percentage":3},{"id":"self","total":14377,"percentage":2},{"id":"Shan.code-settings-sync","total":516757,"percentage":54},{"id":"shardulm94.trailing-spaces","total":73922,"percentage":8},{"id":"slevesque.vscode-multiclip","total":201,"percentage":0},{"id":"TzachOvadia.todo-list","total":227935,"percentage":24},{"id":"vincaslt.highlight-matching-tag","total":54945,"percentage":6},{"id":"wayou.vscode-todo-highlight","total":3299,"percentage":0}]
+[2019-08-31 10:43:40.393] [renderer1] [error] Error: [File Watcher (chockidar)] Inotify limit reached (ENOSPC)
+[2019-08-31 10:43:40.452] [renderer1] [error] [File Watcher (chockidar)] Inotify limit reached (ENOSPC)
+[2019-08-31 10:43:52.569] [renderer1] [error] Error: [File Watcher (chockidar)] Inotify limit reached (ENOSPC)
+[2019-08-31 10:43:52.598] [renderer1] [error] [File Watcher (chockidar)] Inotify limit reached (ENOSPC)
+[2019-08-31 10:43:55.096] [renderer1] [error] Error: [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/var/www/html/laravel/terakhir_cms/.vscode'
+[2019-08-31 10:43:55.096] [renderer1] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/var/www/html/laravel/terakhir_cms/.vscode'

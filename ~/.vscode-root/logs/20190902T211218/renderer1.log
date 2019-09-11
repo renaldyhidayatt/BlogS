@@ -1,0 +1,91 @@
+[2019-09-02 21:12:40.947] [renderer1] [error] Error: [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/var/www/html/laravel/terakhir_cms/.vscode'
+[2019-09-02 21:12:40.948] [renderer1] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/var/www/html/laravel/terakhir_cms/.vscode'
+[2019-09-02 21:12:51.224] [renderer1] [error] Error: [File Watcher (chockidar)] Inotify limit reached (ENOSPC)
+[2019-09-02 21:12:51.242] [renderer1] [error] [File Watcher (chockidar)] Inotify limit reached (ENOSPC)
+[2019-09-02 21:13:02.437] [renderer1] [warning] UNRESPONSIVE extension host, 'TzachOvadia.todo-list' took 65% of 2131.11ms, saved PROFILE here: '/tmp/exthost-ced310.cpuprofile' [{"id":"eamodio.gitlens","total":23182,"percentage":1},{"id":"gc","total":502,"percentage":0},{"id":"gornivv.vscode-flutter-files","total":330,"percentage":0},{"id":"program","total":167,"percentage":0},{"id":"self","total":10635,"percentage":0},{"id":"TzachOvadia.todo-list","total":1378683,"percentage":65},{"id":"vscode.git","total":711213,"percentage":33}]
+[2019-09-02 21:22:22.945] [renderer1] [warning] UNRESPONSIVE extension host, 'vscode.emmet' took 97% of 520.349ms, saved PROFILE here: '/tmp/exthost-731c53.cpuprofile' [{"id":"vscode.emmet","total":503365,"percentage":97}]
+[2019-09-02 23:09:25.345] [renderer1] [error] Cannot read property 'name' of null: TypeError: Cannot read property 'name' of null
+	at F (/home/darkof/.vscode/extensions/bmewburn.vscode-intelephense-client-1.2.2/lib/extension.js:1:177141)
+	at F (/home/darkof/.vscode/extensions/bmewburn.vscode-intelephense-client-1.2.2/lib/extension.js:1:177286)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/darkof/.vscode/extensions/bmewburn.vscode-intelephense-client-1.2.2/lib/extension.js:1:181286)
+	at module.exports.registerLanguageProvider.t.sendRequest.then.e (/home/darkof/.vscode/extensions/bmewburn.vscode-intelephense-client-1.2.2/lib/extension.js:1:39665)
+[2019-09-02 23:09:31.479] [renderer1] [error] Cannot read property 'name' of null: TypeError: Cannot read property 'name' of null
+	at F (/home/darkof/.vscode/extensions/bmewburn.vscode-intelephense-client-1.2.2/lib/extension.js:1:177141)
+	at F (/home/darkof/.vscode/extensions/bmewburn.vscode-intelephense-client-1.2.2/lib/extension.js:1:177286)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/darkof/.vscode/extensions/bmewburn.vscode-intelephense-client-1.2.2/lib/extension.js:1:181286)
+	at module.exports.registerLanguageProvider.t.sendRequest.then.e (/home/darkof/.vscode/extensions/bmewburn.vscode-intelephense-client-1.2.2/lib/extension.js:1:39665)
+[2019-09-02 23:09:33.266] [renderer1] [error] Cannot read property 'name' of null: TypeError: Cannot read property 'name' of null
+	at F (/home/darkof/.vscode/extensions/bmewburn.vscode-intelephense-client-1.2.2/lib/extension.js:1:177141)
+	at F (/home/darkof/.vscode/extensions/bmewburn.vscode-intelephense-client-1.2.2/lib/extension.js:1:177286)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/darkof/.vscode/extensions/bmewburn.vscode-intelephense-client-1.2.2/lib/extension.js:1:181286)
+	at module.exports.registerLanguageProvider.t.sendRequest.then.e (/home/darkof/.vscode/extensions/bmewburn.vscode-intelephense-client-1.2.2/lib/extension.js:1:39665)
+[2019-09-02 23:09:34.280] [renderer1] [error] Cannot read property 'name' of null: TypeError: Cannot read property 'name' of null
+	at F (/home/darkof/.vscode/extensions/bmewburn.vscode-intelephense-client-1.2.2/lib/extension.js:1:177141)
+	at F (/home/darkof/.vscode/extensions/bmewburn.vscode-intelephense-client-1.2.2/lib/extension.js:1:177286)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/darkof/.vscode/extensions/bmewburn.vscode-intelephense-client-1.2.2/lib/extension.js:1:181286)
+	at module.exports.registerLanguageProvider.t.sendRequest.then.e (/home/darkof/.vscode/extensions/bmewburn.vscode-intelephense-client-1.2.2/lib/extension.js:1:39665)
+[2019-09-02 23:09:35.470] [renderer1] [error] Cannot read property 'name' of null: TypeError: Cannot read property 'name' of null
+	at F (/home/darkof/.vscode/extensions/bmewburn.vscode-intelephense-client-1.2.2/lib/extension.js:1:177141)
+	at F (/home/darkof/.vscode/extensions/bmewburn.vscode-intelephense-client-1.2.2/lib/extension.js:1:177286)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/darkof/.vscode/extensions/bmewburn.vscode-intelephense-client-1.2.2/lib/extension.js:1:181286)
+	at module.exports.registerLanguageProvider.t.sendRequest.then.e (/home/darkof/.vscode/extensions/bmewburn.vscode-intelephense-client-1.2.2/lib/extension.js:1:39665)
+[2019-09-02 23:09:37.781] [renderer1] [error] Cannot read property 'name' of null: TypeError: Cannot read property 'name' of null
+	at F (/home/darkof/.vscode/extensions/bmewburn.vscode-intelephense-client-1.2.2/lib/extension.js:1:177141)
+	at F (/home/darkof/.vscode/extensions/bmewburn.vscode-intelephense-client-1.2.2/lib/extension.js:1:177286)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/darkof/.vscode/extensions/bmewburn.vscode-intelephense-client-1.2.2/lib/extension.js:1:181286)
+	at module.exports.registerLanguageProvider.t.sendRequest.then.e (/home/darkof/.vscode/extensions/bmewburn.vscode-intelephense-client-1.2.2/lib/extension.js:1:39665)
+[2019-09-02 23:09:43.381] [renderer1] [error] Cannot read property 'name' of null: TypeError: Cannot read property 'name' of null
+	at F (/home/darkof/.vscode/extensions/bmewburn.vscode-intelephense-client-1.2.2/lib/extension.js:1:177141)
+	at F (/home/darkof/.vscode/extensions/bmewburn.vscode-intelephense-client-1.2.2/lib/extension.js:1:177286)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/darkof/.vscode/extensions/bmewburn.vscode-intelephense-client-1.2.2/lib/extension.js:1:181286)
+	at module.exports.registerLanguageProvider.t.sendRequest.then.e (/home/darkof/.vscode/extensions/bmewburn.vscode-intelephense-client-1.2.2/lib/extension.js:1:39665)
+[2019-09-02 23:09:45.936] [renderer1] [error] Cannot read property 'name' of null: TypeError: Cannot read property 'name' of null
+	at F (/home/darkof/.vscode/extensions/bmewburn.vscode-intelephense-client-1.2.2/lib/extension.js:1:177141)
+	at F (/home/darkof/.vscode/extensions/bmewburn.vscode-intelephense-client-1.2.2/lib/extension.js:1:177286)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/darkof/.vscode/extensions/bmewburn.vscode-intelephense-client-1.2.2/lib/extension.js:1:181286)
+	at module.exports.registerLanguageProvider.t.sendRequest.then.e (/home/darkof/.vscode/extensions/bmewburn.vscode-intelephense-client-1.2.2/lib/extension.js:1:39665)
+[2019-09-02 23:10:11.174] [renderer1] [error] Cannot read property 'name' of null: TypeError: Cannot read property 'name' of null
+	at F (/home/darkof/.vscode/extensions/bmewburn.vscode-intelephense-client-1.2.2/lib/extension.js:1:177141)
+	at F (/home/darkof/.vscode/extensions/bmewburn.vscode-intelephense-client-1.2.2/lib/extension.js:1:177286)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/darkof/.vscode/extensions/bmewburn.vscode-intelephense-client-1.2.2/lib/extension.js:1:181286)
+	at module.exports.registerLanguageProvider.t.sendRequest.then.e (/home/darkof/.vscode/extensions/bmewburn.vscode-intelephense-client-1.2.2/lib/extension.js:1:39665)
+[2019-09-02 23:10:26.497] [renderer1] [error] Cannot read property 'name' of null: TypeError: Cannot read property 'name' of null
+	at F (/home/darkof/.vscode/extensions/bmewburn.vscode-intelephense-client-1.2.2/lib/extension.js:1:177141)
+	at F (/home/darkof/.vscode/extensions/bmewburn.vscode-intelephense-client-1.2.2/lib/extension.js:1:177286)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/darkof/.vscode/extensions/bmewburn.vscode-intelephense-client-1.2.2/lib/extension.js:1:181286)
+	at module.exports.registerLanguageProvider.t.sendRequest.then.e (/home/darkof/.vscode/extensions/bmewburn.vscode-intelephense-client-1.2.2/lib/extension.js:1:39665)
+[2019-09-02 23:38:42.296] [renderer1] [warning] UNRESPONSIVE extension host, 'eamodio.gitlens' took 56% of 9292.13ms, saved PROFILE here: '/tmp/exthost-431fb7.cpuprofile' [{"id":"CoenraadS.bracket-pair-colorizer-2","total":74680,"percentage":1},{"id":"eamodio.gitlens","total":5246514,"percentage":56},{"id":"gc","total":1624192,"percentage":17},{"id":"oderwat.indent-rainbow","total":11501,"percentage":0},{"id":"onecentlin.laravel-blade","total":23516,"percentage":0},{"id":"program","total":1959117,"percentage":21},{"id":"self","total":168368,"percentage":2},{"id":"shardulm94.trailing-spaces","total":36507,"percentage":0},{"id":"TzachOvadia.todo-list","total":181,"percentage":0},{"id":"vincaslt.highlight-matching-tag","total":40457,"percentage":0},{"id":"vscode.merge-conflict","total":697,"percentage":0},{"id":"wayou.vscode-todo-highlight","total":162,"percentage":0}]
+[2019-09-03 00:28:34.093] [renderer1] [error] Cannot read property 'name' of null: TypeError: Cannot read property 'name' of null
+	at F (/home/darkof/.vscode/extensions/bmewburn.vscode-intelephense-client-1.2.2/lib/extension.js:1:177141)
+	at F (/home/darkof/.vscode/extensions/bmewburn.vscode-intelephense-client-1.2.2/lib/extension.js:1:177286)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/darkof/.vscode/extensions/bmewburn.vscode-intelephense-client-1.2.2/lib/extension.js:1:181286)
+	at module.exports.registerLanguageProvider.t.sendRequest.then.e (/home/darkof/.vscode/extensions/bmewburn.vscode-intelephense-client-1.2.2/lib/extension.js:1:39665)
+[2019-09-03 00:28:36.785] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:346:965)
+	at new C (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:346:914)
+	at new C (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:335:813)
+	at asSymbolInformation (/home/darkof/.vscode/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:347:22)
+	at values.map.information (/home/darkof/.vscode/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:336:42)
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/home/darkof/.vscode/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:336:23)
+	at registerLanguageProvider.client.sendRequest.then (/home/darkof/.vscode/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/client.js:1002:62)
+[2019-09-03 00:49:58.342] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:346:965)
+	at new C (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:346:914)
+	at new C (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:335:813)
+	at asSymbolInformation (/home/darkof/.vscode/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:347:22)
+	at values.map.information (/home/darkof/.vscode/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:336:42)
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/home/darkof/.vscode/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:336:23)
+	at registerLanguageProvider.client.sendRequest.then (/home/darkof/.vscode/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/client.js:1002:62)

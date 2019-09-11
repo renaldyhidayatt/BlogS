@@ -1,0 +1,315 @@
+DEBUG     Checking PHPLS_ALLOW_XDEBUG
+
+DEBUG     The xdebug extension is not loaded
+
+[Info  - 8:00:08 AM] 6446 files total
+[Info  - 8:00:08 AM] Indexing project for definitions and static references
+Parsing file:///var/www/html/laravel/terakhir_cms/public/index.php
+Parsing file:///var/www/html/laravel/terakhir_cms/bootstrap/app.php
+Parsing file:///var/www/html/laravel/terakhir_cms/bootstrap/cache/packages.php
+Parsing file:///var/www/html/laravel/terakhir_cms/bootstrap/cache/services.php
+Parsing file:///var/www/html/laravel/terakhir_cms/database/seeds/DatabaseSeeder.php
+Parsing file:///var/www/html/laravel/terakhir_cms/database/migrations/2019_08_29_191156_create_tags_table.php
+Parsing file:///var/www/html/laravel/terakhir_cms/database/migrations/2019_08_27_002415_create_categories_table.php
+Parsing file:///var/www/html/laravel/terakhir_cms/database/migrations/2019_08_27_012557_create_posts_table.php
+Parsing file:///var/www/html/laravel/terakhir_cms/database/migrations/2014_10_12_000000_create_users_table.php
+Parsing file:///var/www/html/laravel/terakhir_cms/database/migrations/2014_10_12_100000_create_password_resets_table.php
+Parsing file:///var/www/html/laravel/terakhir_cms/database/migrations/2019_08_27_225504_add_soft_delete_to_posts_table.php
+Parsing file:///var/www/html/laravel/terakhir_cms/database/factories/UserFactory.php
+Parsing file:///var/www/html/laravel/terakhir_cms/tests/Feature/ExampleTest.php
+Parsing file:///var/www/html/laravel/terakhir_cms/tests/CreatesApplication.php
+Parsing file:///var/www/html/laravel/terakhir_cms/tests/TestCase.php
+Parsing file:///var/www/html/laravel/terakhir_cms/tests/Unit/ExampleTest.php
+Parsing file:///var/www/html/laravel/terakhir_cms/app/Console/Kernel.php
+Parsing file:///var/www/html/laravel/terakhir_cms/app/User.php
+Parsing file:///var/www/html/laravel/terakhir_cms/app/Category.php
+Parsing file:///var/www/html/laravel/terakhir_cms/app/Exceptions/Handler.php
+Parsing file:///var/www/html/laravel/terakhir_cms/app/Posts.php
+Parsing file:///var/www/html/laravel/terakhir_cms/app/Tag.php
+Parsing file:///var/www/html/laravel/terakhir_cms/app/Http/Requests/Categories/UpdateCategoryRequest.php
+Parsing file:///var/www/html/laravel/terakhir_cms/app/Http/Requests/Categories/CreateCategoryRequest.php
+Parsing file:///var/www/html/laravel/terakhir_cms/app/Http/Requests/Tags/CreateTagsRequest.php
+Parsing file:///var/www/html/laravel/terakhir_cms/app/Http/Requests/Tags/UpdateTagsRequest.php
+Parsing file:///var/www/html/laravel/terakhir_cms/app/Http/Requests/Posts/UpdatePostsRequest.php
+Parsing file:///var/www/html/laravel/terakhir_cms/app/Http/Requests/Posts/CreatePostsRequest.php
+Parsing file:///var/www/html/laravel/terakhir_cms/app/Http/Kernel.php
+Parsing file:///var/www/html/laravel/terakhir_cms/app/Http/Controllers/PostsController.php
+Parsing file:///var/www/html/laravel/terakhir_cms/app/Http/Controllers/Controller.php
+Parsing file:///var/www/html/laravel/terakhir_cms/app/Http/Controllers/CategoryController.php
+Parsing file:///var/www/html/laravel/terakhir_cms/app/Http/Controllers/Auth/LoginController.php
+Parsing file:///var/www/html/laravel/terakhir_cms/app/Http/Controllers/Auth/VerificationController.php
+Parsing file:///var/www/html/laravel/terakhir_cms/app/Http/Controllers/Auth/RegisterController.php
+Parsing file:///var/www/html/laravel/terakhir_cms/app/Http/Controllers/Auth/ForgotPasswordController.php
+Parsing file:///var/www/html/laravel/terakhir_cms/app/Http/Controllers/Auth/ResetPasswordController.php
+Parsing file:///var/www/html/laravel/terakhir_cms/app/Http/Controllers/HomeController.php
+Parsing file:///var/www/html/laravel/terakhir_cms/app/Http/Controllers/TagsController.php
+Parsing file:///var/www/html/laravel/terakhir_cms/app/Http/Middleware/TrimStrings.php
+Parsing file:///var/www/html/laravel/terakhir_cms/app/Http/Middleware/VerifCategoriesCount.php
+Parsing file:///var/www/html/laravel/terakhir_cms/app/Http/Middleware/VerifyCsrfToken.php
+Parsing file:///var/www/html/laravel/terakhir_cms/app/Http/Middleware/RedirectIfAuthenticated.php
+Parsing file:///var/www/html/laravel/terakhir_cms/app/Http/Middleware/CheckForMaintenanceMode.php
+Parsing file:///var/www/html/laravel/terakhir_cms/app/Http/Middleware/EncryptCookies.php
+Parsing file:///var/www/html/laravel/terakhir_cms/app/Http/Middleware/Authenticate.php
+Parsing file:///var/www/html/laravel/terakhir_cms/app/Http/Middleware/TrustProxies.php
+Parsing file:///var/www/html/laravel/terakhir_cms/app/Providers/EventServiceProvider.php
+Parsing file:///var/www/html/laravel/terakhir_cms/app/Providers/BroadcastServiceProvider.php
+Parsing file:///var/www/html/laravel/terakhir_cms/app/Providers/AuthServiceProvider.php
+Parsing file:///var/www/html/laravel/terakhir_cms/app/Providers/RouteServiceProvider.php
+Parsing file:///var/www/html/laravel/terakhir_cms/app/Providers/AppServiceProvider.php
+Parsing file:///var/www/html/laravel/terakhir_cms/vendor/composer/autoload_real.php
+Parsing file:///var/www/html/laravel/terakhir_cms/vendor/composer/autoload_classmap.php
+[Info  - 8:00:08 AM] Ignoring file file:///var/www/html/laravel/terakhir_cms/vendor/composer/autoload_classmap.php because it exceeds size limit of 150000 bytes (451811)
+Parsing file:///var/www/html/laravel/terakhir_cms/vendor/composer/autoload_static.php
+[Info  - 8:00:08 AM] Ignoring file file:///var/www/html/laravel/terakhir_cms/vendor/composer/autoload_static.php because it exceeds size limit of 150000 bytes (497867)
+Parsing file:///var/www/html/laravel/terakhir_cms/vendor/composer/autoload_files.php
+Parsing file:///var/www/html/laravel/terakhir_cms/vendor/composer/ClassLoader.php
+Parsing file:///var/www/html/laravel/terakhir_cms/vendor/composer/autoload_psr4.php
+Parsing file:///var/www/html/laravel/terakhir_cms/vendor/composer/autoload_namespaces.php
+Parsing file:///var/www/html/laravel/terakhir_cms/vendor/autoload.php
+Parsing file:///var/www/html/laravel/terakhir_cms/server.php
+Parsing file:///var/www/html/laravel/terakhir_cms/routes/console.php
+Parsing file:///var/www/html/laravel/terakhir_cms/routes/web.php
+Parsing file:///var/www/html/laravel/terakhir_cms/routes/channels.php
+Parsing file:///var/www/html/laravel/terakhir_cms/routes/api.php
+Parsing file:///var/www/html/laravel/terakhir_cms/storage/framework/views/47adc0da0c54fec974a652561c47f182aaa8f163.php
+Parsing file:///var/www/html/laravel/terakhir_cms/storage/framework/views/73d027492af6ce0495c2dcf7558be2468cf4b750.php
+Parsing file:///var/www/html/laravel/terakhir_cms/storage/framework/views/dfa634844f99ffb861cd9e0feace4d82c6f13159.php
+Parsing file:///var/www/html/laravel/terakhir_cms/storage/framework/views/05bd1c40aa81a73f67a7dd835fa8493297296bd9.php
+Parsing file:///var/www/html/laravel/terakhir_cms/storage/framework/views/7a403b57b535607d0d7a50fef3995dfe6b2d4630.php
+Parsing file:///var/www/html/laravel/terakhir_cms/storage/framework/views/0426cc73a083c50b429d0dafad0c31d82f415631.php
+Parsing file:///var/www/html/laravel/terakhir_cms/storage/framework/views/124c1a375565c06ac21e9de6c6f1de3103b6c93a.php
+Parsing file:///var/www/html/laravel/terakhir_cms/storage/framework/views/bcb35db9484bc7142bcad3529b48bb1e638450d7.php
+Parsing file:///var/www/html/laravel/terakhir_cms/storage/framework/views/98c24b19b5dfb5935527e5d17ee3310e866b9ed5.php
+Parsing file:///var/www/html/laravel/terakhir_cms/storage/framework/views/5bb05e11e363003e9ba829b3f698097dc4e18e36.php
+Parsing file:///var/www/html/laravel/terakhir_cms/storage/framework/views/d42ab4102db176ce6ae7d1d4797913f05c6408d7.php
+Parsing file:///var/www/html/laravel/terakhir_cms/storage/framework/views/4a1407cd89571a2897f1450349df180ddd88d490.php
+Parsing file:///var/www/html/laravel/terakhir_cms/storage/framework/views/9615980102aba03322206339306e3dc0c49e97cc.php
+Parsing file:///var/www/html/laravel/terakhir_cms/storage/framework/views/a08979421f5422c281f6564abd366c7a43be42b5.php
+Parsing file:///var/www/html/laravel/terakhir_cms/config/services.php
+Parsing file:///var/www/html/laravel/terakhir_cms/config/app.php
+Parsing file:///var/www/html/laravel/terakhir_cms/config/queue.php
+Parsing file:///var/www/html/laravel/terakhir_cms/config/auth.php
+Parsing file:///var/www/html/laravel/terakhir_cms/config/logging.php
+Parsing file:///var/www/html/laravel/terakhir_cms/config/mail.php
+Parsing file:///var/www/html/laravel/terakhir_cms/config/view.php
+Parsing file:///var/www/html/laravel/terakhir_cms/config/hashing.php
+Parsing file:///var/www/html/laravel/terakhir_cms/config/filesystems.php
+Parsing file:///var/www/html/laravel/terakhir_cms/config/cache.php
+Parsing file:///var/www/html/laravel/terakhir_cms/config/database.php
+Parsing file:///var/www/html/laravel/terakhir_cms/config/session.php
+Parsing file:///var/www/html/laravel/terakhir_cms/config/broadcasting.php
+Parsing file:///var/www/html/laravel/terakhir_cms/resources/lang/en/pagination.php
+Parsing file:///var/www/html/laravel/terakhir_cms/resources/lang/en/auth.php
+Parsing file:///var/www/html/laravel/terakhir_cms/resources/lang/en/passwords.php
+Parsing file:///var/www/html/laravel/terakhir_cms/resources/lang/en/validation.php
+Parsing file:///var/www/html/laravel/terakhir_cms/resources/views/categories/create.blade.php
+Parsing file:///var/www/html/laravel/terakhir_cms/resources/views/categories/index.blade.php
+Parsing file:///var/www/html/laravel/terakhir_cms/resources/views/home.blade.php
+Parsing file:///var/www/html/laravel/terakhir_cms/resources/views/layouts/app.blade.php
+Parsing file:///var/www/html/laravel/terakhir_cms/resources/views/tags/create.blade.php
+Parsing file:///var/www/html/laravel/terakhir_cms/resources/views/tags/index.blade.php
+Parsing file:///var/www/html/laravel/terakhir_cms/resources/views/auth/verify.blade.php
+Parsing file:///var/www/html/laravel/terakhir_cms/resources/views/auth/register.blade.php
+Parsing file:///var/www/html/laravel/terakhir_cms/resources/views/auth/login.blade.php
+Parsing file:///var/www/html/laravel/terakhir_cms/resources/views/auth/passwords/reset.blade.php
+Parsing file:///var/www/html/laravel/terakhir_cms/resources/views/auth/passwords/email.blade.php
+Parsing file:///var/www/html/laravel/terakhir_cms/resources/views/welcome.blade.php
+Parsing file:///var/www/html/laravel/terakhir_cms/resources/views/partials/errors.blade.php
+Parsing file:///var/www/html/laravel/terakhir_cms/resources/views/posts/create.blade.php
+Parsing file:///var/www/html/laravel/terakhir_cms/resources/views/posts/index.blade.php
+[Info  - 8:00:09 AM] Indexing project for dynamic references
+Parsing file:///var/www/html/laravel/terakhir_cms/public/index.php
+Parsing file:///var/www/html/laravel/terakhir_cms/bootstrap/app.php
+Parsing file:///var/www/html/laravel/terakhir_cms/bootstrap/cache/packages.php
+Parsing file:///var/www/html/laravel/terakhir_cms/bootstrap/cache/services.php
+Parsing file:///var/www/html/laravel/terakhir_cms/database/seeds/DatabaseSeeder.php
+Parsing file:///var/www/html/laravel/terakhir_cms/database/migrations/2019_08_29_191156_create_tags_table.php
+Parsing file:///var/www/html/laravel/terakhir_cms/database/migrations/2019_08_27_002415_create_categories_table.php
+Parsing file:///var/www/html/laravel/terakhir_cms/database/migrations/2019_08_27_012557_create_posts_table.php
+Parsing file:///var/www/html/laravel/terakhir_cms/database/migrations/2014_10_12_000000_create_users_table.php
+Parsing file:///var/www/html/laravel/terakhir_cms/database/migrations/2014_10_12_100000_create_password_resets_table.php
+Parsing file:///var/www/html/laravel/terakhir_cms/database/migrations/2019_08_27_225504_add_soft_delete_to_posts_table.php
+Parsing file:///var/www/html/laravel/terakhir_cms/database/factories/UserFactory.php
+Parsing file:///var/www/html/laravel/terakhir_cms/tests/Feature/ExampleTest.php
+Parsing file:///var/www/html/laravel/terakhir_cms/tests/CreatesApplication.php
+Parsing file:///var/www/html/laravel/terakhir_cms/tests/TestCase.php
+Parsing file:///var/www/html/laravel/terakhir_cms/tests/Unit/ExampleTest.php
+Parsing file:///var/www/html/laravel/terakhir_cms/app/Console/Kernel.php
+Parsing file:///var/www/html/laravel/terakhir_cms/app/User.php
+Parsing file:///var/www/html/laravel/terakhir_cms/app/Category.php
+Parsing file:///var/www/html/laravel/terakhir_cms/app/Exceptions/Handler.php
+Parsing file:///var/www/html/laravel/terakhir_cms/app/Posts.php
+Parsing file:///var/www/html/laravel/terakhir_cms/app/Tag.php
+Parsing file:///var/www/html/laravel/terakhir_cms/app/Http/Requests/Categories/UpdateCategoryRequest.php
+Parsing file:///var/www/html/laravel/terakhir_cms/app/Http/Requests/Categories/CreateCategoryRequest.php
+Parsing file:///var/www/html/laravel/terakhir_cms/app/Http/Requests/Tags/CreateTagsRequest.php
+Parsing file:///var/www/html/laravel/terakhir_cms/app/Http/Requests/Tags/UpdateTagsRequest.php
+Parsing file:///var/www/html/laravel/terakhir_cms/app/Http/Requests/Posts/UpdatePostsRequest.php
+Parsing file:///var/www/html/laravel/terakhir_cms/app/Http/Requests/Posts/CreatePostsRequest.php
+Parsing file:///var/www/html/laravel/terakhir_cms/app/Http/Kernel.php
+Parsing file:///var/www/html/laravel/terakhir_cms/app/Http/Controllers/PostsController.php
+Parsing file:///var/www/html/laravel/terakhir_cms/app/Http/Controllers/Controller.php
+Parsing file:///var/www/html/laravel/terakhir_cms/app/Http/Controllers/CategoryController.php
+Parsing file:///var/www/html/laravel/terakhir_cms/app/Http/Controllers/Auth/LoginController.php
+Parsing file:///var/www/html/laravel/terakhir_cms/app/Http/Controllers/Auth/VerificationController.php
+Parsing file:///var/www/html/laravel/terakhir_cms/app/Http/Controllers/Auth/RegisterController.php
+Parsing file:///var/www/html/laravel/terakhir_cms/app/Http/Controllers/Auth/ForgotPasswordController.php
+Parsing file:///var/www/html/laravel/terakhir_cms/app/Http/Controllers/Auth/ResetPasswordController.php
+Parsing file:///var/www/html/laravel/terakhir_cms/app/Http/Controllers/HomeController.php
+Parsing file:///var/www/html/laravel/terakhir_cms/app/Http/Controllers/TagsController.php
+Parsing file:///var/www/html/laravel/terakhir_cms/app/Http/Middleware/TrimStrings.php
+Parsing file:///var/www/html/laravel/terakhir_cms/app/Http/Middleware/VerifCategoriesCount.php
+Parsing file:///var/www/html/laravel/terakhir_cms/app/Http/Middleware/VerifyCsrfToken.php
+Parsing file:///var/www/html/laravel/terakhir_cms/app/Http/Middleware/RedirectIfAuthenticated.php
+Parsing file:///var/www/html/laravel/terakhir_cms/app/Http/Middleware/CheckForMaintenanceMode.php
+Parsing file:///var/www/html/laravel/terakhir_cms/app/Http/Middleware/EncryptCookies.php
+Parsing file:///var/www/html/laravel/terakhir_cms/app/Http/Middleware/Authenticate.php
+Parsing file:///var/www/html/laravel/terakhir_cms/app/Http/Middleware/TrustProxies.php
+Parsing file:///var/www/html/laravel/terakhir_cms/app/Providers/EventServiceProvider.php
+Parsing file:///var/www/html/laravel/terakhir_cms/app/Providers/BroadcastServiceProvider.php
+Parsing file:///var/www/html/laravel/terakhir_cms/app/Providers/AuthServiceProvider.php
+Parsing file:///var/www/html/laravel/terakhir_cms/app/Providers/RouteServiceProvider.php
+Parsing file:///var/www/html/laravel/terakhir_cms/app/Providers/AppServiceProvider.php
+Parsing file:///var/www/html/laravel/terakhir_cms/vendor/composer/autoload_real.php
+Parsing file:///var/www/html/laravel/terakhir_cms/vendor/composer/autoload_classmap.php
+[Info  - 8:00:09 AM] Ignoring file file:///var/www/html/laravel/terakhir_cms/vendor/composer/autoload_classmap.php because it exceeds size limit of 150000 bytes (451811)
+Parsing file:///var/www/html/laravel/terakhir_cms/vendor/composer/autoload_static.php
+[Info  - 8:00:09 AM] Ignoring file file:///var/www/html/laravel/terakhir_cms/vendor/composer/autoload_static.php because it exceeds size limit of 150000 bytes (497867)
+Parsing file:///var/www/html/laravel/terakhir_cms/vendor/composer/autoload_files.php
+Parsing file:///var/www/html/laravel/terakhir_cms/vendor/composer/ClassLoader.php
+Parsing file:///var/www/html/laravel/terakhir_cms/vendor/composer/autoload_psr4.php
+Parsing file:///var/www/html/laravel/terakhir_cms/vendor/composer/autoload_namespaces.php
+Parsing file:///var/www/html/laravel/terakhir_cms/vendor/autoload.php
+Parsing file:///var/www/html/laravel/terakhir_cms/server.php
+Parsing file:///var/www/html/laravel/terakhir_cms/routes/console.php
+Parsing file:///var/www/html/laravel/terakhir_cms/routes/web.php
+Parsing file:///var/www/html/laravel/terakhir_cms/routes/channels.php
+Parsing file:///var/www/html/laravel/terakhir_cms/routes/api.php
+Parsing file:///var/www/html/laravel/terakhir_cms/storage/framework/views/47adc0da0c54fec974a652561c47f182aaa8f163.php
+Parsing file:///var/www/html/laravel/terakhir_cms/storage/framework/views/73d027492af6ce0495c2dcf7558be2468cf4b750.php
+Parsing file:///var/www/html/laravel/terakhir_cms/storage/framework/views/dfa634844f99ffb861cd9e0feace4d82c6f13159.php
+Parsing file:///var/www/html/laravel/terakhir_cms/storage/framework/views/05bd1c40aa81a73f67a7dd835fa8493297296bd9.php
+Parsing file:///var/www/html/laravel/terakhir_cms/storage/framework/views/7a403b57b535607d0d7a50fef3995dfe6b2d4630.php
+Parsing file:///var/www/html/laravel/terakhir_cms/storage/framework/views/0426cc73a083c50b429d0dafad0c31d82f415631.php
+Parsing file:///var/www/html/laravel/terakhir_cms/storage/framework/views/124c1a375565c06ac21e9de6c6f1de3103b6c93a.php
+Parsing file:///var/www/html/laravel/terakhir_cms/storage/framework/views/bcb35db9484bc7142bcad3529b48bb1e638450d7.php
+Parsing file:///var/www/html/laravel/terakhir_cms/storage/framework/views/98c24b19b5dfb5935527e5d17ee3310e866b9ed5.php
+Parsing file:///var/www/html/laravel/terakhir_cms/storage/framework/views/5bb05e11e363003e9ba829b3f698097dc4e18e36.php
+Parsing file:///var/www/html/laravel/terakhir_cms/storage/framework/views/d42ab4102db176ce6ae7d1d4797913f05c6408d7.php
+Parsing file:///var/www/html/laravel/terakhir_cms/storage/framework/views/4a1407cd89571a2897f1450349df180ddd88d490.php
+Parsing file:///var/www/html/laravel/terakhir_cms/storage/framework/views/9615980102aba03322206339306e3dc0c49e97cc.php
+Parsing file:///var/www/html/laravel/terakhir_cms/storage/framework/views/a08979421f5422c281f6564abd366c7a43be42b5.php
+Parsing file:///var/www/html/laravel/terakhir_cms/config/services.php
+Parsing file:///var/www/html/laravel/terakhir_cms/config/app.php
+Parsing file:///var/www/html/laravel/terakhir_cms/config/queue.php
+Parsing file:///var/www/html/laravel/terakhir_cms/config/auth.php
+Parsing file:///var/www/html/laravel/terakhir_cms/config/logging.php
+Parsing file:///var/www/html/laravel/terakhir_cms/config/mail.php
+Parsing file:///var/www/html/laravel/terakhir_cms/config/view.php
+Parsing file:///var/www/html/laravel/terakhir_cms/config/hashing.php
+Parsing file:///var/www/html/laravel/terakhir_cms/config/filesystems.php
+Parsing file:///var/www/html/laravel/terakhir_cms/config/cache.php
+Parsing file:///var/www/html/laravel/terakhir_cms/config/database.php
+Parsing file:///var/www/html/laravel/terakhir_cms/config/session.php
+Parsing file:///var/www/html/laravel/terakhir_cms/config/broadcasting.php
+Parsing file:///var/www/html/laravel/terakhir_cms/resources/lang/en/pagination.php
+Parsing file:///var/www/html/laravel/terakhir_cms/resources/lang/en/auth.php
+Parsing file:///var/www/html/laravel/terakhir_cms/resources/lang/en/passwords.php
+Parsing file:///var/www/html/laravel/terakhir_cms/resources/lang/en/validation.php
+Parsing file:///var/www/html/laravel/terakhir_cms/resources/views/categories/create.blade.php
+Parsing file:///var/www/html/laravel/terakhir_cms/resources/views/categories/index.blade.php
+Parsing file:///var/www/html/laravel/terakhir_cms/resources/views/home.blade.php
+Parsing file:///var/www/html/laravel/terakhir_cms/resources/views/layouts/app.blade.php
+Parsing file:///var/www/html/laravel/terakhir_cms/resources/views/tags/create.blade.php
+Parsing file:///var/www/html/laravel/terakhir_cms/resources/views/tags/index.blade.php
+Parsing file:///var/www/html/laravel/terakhir_cms/resources/views/auth/verify.blade.php
+Parsing file:///var/www/html/laravel/terakhir_cms/resources/views/auth/register.blade.php
+Parsing file:///var/www/html/laravel/terakhir_cms/resources/views/auth/login.blade.php
+Parsing file:///var/www/html/laravel/terakhir_cms/resources/views/auth/passwords/reset.blade.php
+Parsing file:///var/www/html/laravel/terakhir_cms/resources/views/auth/passwords/email.blade.php
+Parsing file:///var/www/html/laravel/terakhir_cms/resources/views/welcome.blade.php
+Parsing file:///var/www/html/laravel/terakhir_cms/resources/views/partials/errors.blade.php
+Parsing file:///var/www/html/laravel/terakhir_cms/resources/views/posts/create.blade.php
+Parsing file:///var/www/html/laravel/terakhir_cms/resources/views/posts/index.blade.php
+[Info  - 8:00:09 AM] 80 Packages
+[Info  - 8:00:09 AM] Restored phpoption/phpoption:1.5.0 from cache
+[Info  - 8:00:10 AM] Restored theseer/tokenizer:1.1.3 from cache
+[Info  - 8:00:10 AM] Restored nesbot/carbon:2.23.1 from cache
+[Info  - 8:00:10 AM] Restored paragonie/random_compat:9.99.99 from cache
+[Info  - 8:00:10 AM] Restored monolog/monolog:1.24.0 from cache
+[Info  - 8:00:11 AM] Restored hamcrest/hamcrest-php:2.0.0 from cache
+[Info  - 8:00:11 AM] Restored laravel/framework:5.8.33 from cache
+[Info  - 8:00:11 AM] Restored laravel/tinker:1.0.10 from cache
+[Info  - 8:00:11 AM] Restored phpspec/prophecy:1.8.1 from cache
+[Info  - 8:00:11 AM] Restored psy/psysh:0.9.9 from cache
+[Info  - 8:00:12 AM] Restored opis/closure:3.3.1 from cache
+[Info  - 8:00:12 AM] Restored webmozart/assert:1.5.0 from cache
+[Info  - 8:00:12 AM] Restored nunomaduro/collision:3.0.1 from cache
+[Info  - 8:00:12 AM] Restored erusev/parsedown:1.7.3 from cache
+[Info  - 8:00:12 AM] Restored fzaninotto/faker:1.8.0 from cache
+[Info  - 8:00:12 AM] Restored phpunit/php-file-iterator:2.0.2 from cache
+[Info  - 8:00:13 AM] Restored phpunit/php-timer:2.1.2 from cache
+[Info  - 8:00:13 AM] Restored phpunit/phpunit:7.5.15 from cache
+[Info  - 8:00:13 AM] Restored phpunit/php-token-stream:3.1.0 from cache
+[Info  - 8:00:13 AM] Restored phpunit/php-code-coverage:6.1.4 from cache
+[Info  - 8:00:13 AM] Restored phpunit/php-text-template:1.2.1 from cache
+[Info  - 8:00:13 AM] Restored beyondcode/laravel-dump-server:1.3.0 from cache
+[Info  - 8:00:13 AM] Restored league/flysystem:1.0.55 from cache
+[Info  - 8:00:13 AM] Restored dnoegel/php-xdg-base-dir:0.1 from cache
+[Info  - 8:00:13 AM] Restored jakub-onderka/php-console-highlighter:0.4 from cache
+[Info  - 8:00:13 AM] Restored jakub-onderka/php-console-color:0.2 from cache
+[Info  - 8:00:14 AM] Restored vlucas/phpdotenv:3.4.0 from cache
+[Info  - 8:00:14 AM] Restored filp/whoops:2.5.0 from cache
+[Info  - 8:00:14 AM] Restored sebastian/exporter:3.1.1 from cache
+[Info  - 8:00:14 AM] Restored sebastian/object-enumerator:3.0.3 from cache
+[Info  - 8:00:14 AM] Restored sebastian/version:2.0.1 from cache
+[Info  - 8:00:14 AM] Restored sebastian/code-unit-reverse-lookup:1.0.1 from cache
+[Info  - 8:00:14 AM] Restored sebastian/diff:3.0.2 from cache
+[Info  - 8:00:14 AM] Restored sebastian/recursion-context:3.0.0 from cache
+[Info  - 8:00:14 AM] Restored sebastian/object-reflector:1.1.1 from cache
+[Info  - 8:00:14 AM] Restored sebastian/comparator:3.0.2 from cache
+[Info  - 8:00:14 AM] Restored sebastian/resource-operations:2.0.1 from cache
+[Info  - 8:00:14 AM] Restored sebastian/environment:4.2.2 from cache
+[Info  - 8:00:14 AM] Restored sebastian/global-state:2.0.0 from cache
+[Info  - 8:00:14 AM] Restored tijsverkoyen/css-to-inline-styles:2.2.1 from cache
+[Info  - 8:00:14 AM] Restored phpdocumentor/type-resolver:0.4.0 from cache
+[Info  - 8:00:14 AM] Restored phpdocumentor/reflection-common:1.0.1 from cache
+[Info  - 8:00:14 AM] Restored phpdocumentor/reflection-docblock:4.3.1 from cache
+[Info  - 8:00:15 AM] Restored swiftmailer/swiftmailer:6.2.1 from cache
+[Info  - 8:00:15 AM] Restored psr/simple-cache:1.0.1 from cache
+[Info  - 8:00:15 AM] Restored psr/container:1.0.0 from cache
+[Info  - 8:00:15 AM] Restored psr/log:1.1.0 from cache
+[Info  - 8:00:15 AM] Restored phar-io/version:2.0.1 from cache
+[Info  - 8:00:15 AM] Restored phar-io/manifest:1.0.3 from cache
+[Info  - 8:00:15 AM] Restored mockery/mockery:1.2.3 from cache
+[Info  - 8:00:16 AM] Restored egulias/email-validator:2.1.11 from cache
+[Info  - 8:00:16 AM] Restored nikic/php-parser:4.2.3 from cache
+[Info  - 8:00:16 AM] Restored doctrine/inflector:1.3.0 from cache
+[Info  - 8:00:16 AM] Restored doctrine/lexer:1.1.0 from cache
+[Info  - 8:00:16 AM] Restored doctrine/instantiator:1.2.0 from cache
+[Info  - 8:00:16 AM] Restored ramsey/uuid:3.8.0 from cache
+[Info  - 8:00:16 AM] Restored myclabs/deep-copy:1.9.3 from cache
+[Info  - 8:00:16 AM] Restored fideloper/proxy:4.2.0 from cache
+[Info  - 8:00:16 AM] Restored symfony/finder:4.3.4 from cache
+[Info  - 8:00:16 AM] Restored symfony/debug:4.3.4 from cache
+[Info  - 8:00:16 AM] Restored symfony/service-contracts:1.1.6 from cache
+[Info  - 8:00:16 AM] Restored symfony/mime:4.3.4 from cache
+[Info  - 8:00:17 AM] Restored symfony/polyfill-ctype:1.12.0 from cache
+[Info  - 8:00:17 AM] Restored symfony/var-dumper:4.3.4 from cache
+[Info  - 8:00:17 AM] Restored symfony/polyfill-mbstring:1.12.0 from cache
+[Info  - 8:00:17 AM] Restored symfony/polyfill-php73:1.12.0 from cache
+[Info  - 8:00:18 AM] Restored symfony/http-foundation:4.3.4 from cache
+[Info  - 8:00:18 AM] Restored symfony/routing:4.3.4 from cache
+[Info  - 8:00:18 AM] Restored symfony/process:4.3.4 from cache
+[Info  - 8:00:18 AM] Restored symfony/event-dispatcher-contracts:1.1.5 from cache
+[Info  - 8:00:19 AM] Restored symfony/translation-contracts:1.1.6 from cache
+[Info  - 8:00:19 AM] Restored symfony/event-dispatcher:4.3.4 from cache
+[Info  - 8:00:19 AM] Restored symfony/css-selector:4.3.4 from cache
+[Info  - 8:00:19 AM] Restored symfony/polyfill-php72:1.12.0 from cache
+[Info  - 8:00:19 AM] Restored symfony/translation:4.3.4 from cache
+[Info  - 8:00:19 AM] Restored symfony/polyfill-intl-idn:1.12.0 from cache
+[Info  - 8:00:20 AM] Restored symfony/console:4.3.4 from cache
+[Info  - 8:00:20 AM] Restored symfony/http-kernel:4.3.4 from cache
+[Info  - 8:00:20 AM] Restored symfony/polyfill-iconv:1.12.0 from cache
+[Info  - 8:00:20 AM] Restored dragonmantank/cron-expression:2.3.0 from cache
+[Info  - 8:00:20 AM] All 6446 PHP files parsed in 12 seconds. 424 MiB allocated.

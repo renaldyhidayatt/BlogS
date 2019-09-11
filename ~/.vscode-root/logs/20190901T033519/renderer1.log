@@ -1,0 +1,27 @@
+[2019-09-01 03:35:36.071] [renderer1] [error] Error: [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/var/www/html/laravel/terakhir_cms/.vscode'
+[2019-09-01 03:35:36.072] [renderer1] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/var/www/html/laravel/terakhir_cms/.vscode'
+[2019-09-01 03:35:49.579] [renderer1] [error] Error: [File Watcher (chockidar)] Inotify limit reached (ENOSPC)
+[2019-09-01 03:35:49.649] [renderer1] [error] [File Watcher (chockidar)] Inotify limit reached (ENOSPC)
+[2019-09-01 03:36:08.474] [renderer1] [warning] UNRESPONSIVE extension host, 'vscode.git' took 63% of 5251.339ms, saved PROFILE here: '/tmp/exthost-7b00dc.cpuprofile' [{"id":"CoenraadS.bracket-pair-colorizer-2","total":1415837,"percentage":27},{"id":"eamodio.gitlens","total":136787,"percentage":3},{"id":"felixfbecker.php-intellisense","total":18639,"percentage":0},{"id":"gc","total":76845,"percentage":1},{"id":"GitHub.vscode-pull-request-github","total":21742,"percentage":0},{"id":"program","total":123869,"percentage":2},{"id":"self","total":123114,"percentage":2},{"id":"vscode.git","total":3326407,"percentage":63}]
+[2019-09-01 03:36:11.238] [renderer1] [error] Model is disposed!: Error: Model is disposed!
+    at P._assertNotDisposed (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:1186:509)
+    at P.getVersionId (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:1191:300)
+    at e.<anonymous> (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:4880:410)
+    at Generator.next (<anonymous>)
+    at r (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:35:293)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+[2019-09-01 04:14:35.186] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:346:965)
+	at new C (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:346:914)
+	at new C (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:335:813)
+	at asSymbolInformation (/home/darkof/.vscode/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:347:22)
+	at values.map.information (/home/darkof/.vscode/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:336:42)
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/home/darkof/.vscode/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:336:23)
+	at registerLanguageProvider.client.sendRequest.then (/home/darkof/.vscode/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/client.js:1002:62)
+[2019-09-01 04:24:44.040] [renderer1] [error] Cannot read property 'name' of null: TypeError: Cannot read property 'name' of null
+	at F (/home/darkof/.vscode/extensions/bmewburn.vscode-intelephense-client-1.2.2/lib/extension.js:1:177141)
+	at F (/home/darkof/.vscode/extensions/bmewburn.vscode-intelephense-client-1.2.2/lib/extension.js:1:177286)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/darkof/.vscode/extensions/bmewburn.vscode-intelephense-client-1.2.2/lib/extension.js:1:181286)
+	at module.exports.registerLanguageProvider.t.sendRequest.then.e (/home/darkof/.vscode/extensions/bmewburn.vscode-intelephense-client-1.2.2/lib/extension.js:1:39665)

@@ -1,0 +1,13 @@
+[Info  - 8:02:39 AM] Initialising intelephense 1.2.2
+[Info  - 8:02:39 AM] Initialised in 75 ms
+[Info  - 8:02:39 AM] Indexing started.
+[Info  - 8:02:47 AM] Indexing ended. 99 files indexed in 7s.
+[Info  - 8:02:47 AM] Indexing started.
+[Warn  - 8:02:47 AM] file:///var/www/html/laravel/terakhir_cms/vendor/fzaninotto/faker/src/Faker/Provider/nl_BE/Text.php is over the maximum file size of 1000000 bytes.
+[Info  - 8:03:18 AM] Indexing ended. 4678 files indexed in 31s.
+[Info  - 8:03:18 AM] Writing state to /var/www/html/laravel/terakhir_cms/~/.vscode-root/User/workspaceStorage/4e576486fa01cde5512edd858aeefc88/bmewburn.vscode-intelephense-client/40778516.
+[Info  - 8:03:20 AM] Wrote state in 1.7s.
+[Info  - 9:03:16 AM] Indexing started.
+[Info  - 9:03:16 AM] Indexing ended. 1 files indexed in 0s.
+[Warn  - 9:36:19 AM] Error: ENOENT: no such file or directory, open '/var/www/html/laravel/terakhir_cms/database/migrations/2019_08_30_023519_create_post_tag_tag_table.php'
+[Warn  - 9:57:10 AM] Error: ENOENT: no such file or directory, open '/var/www/html/laravel/terakhir_cms/database/migrations/2019_08_30_023621_create_post_tag_table.php'

@@ -1,0 +1,43 @@
+[Info  - 3:35:58 AM] Initialising intelephense 1.2.2
+[Info  - 3:35:58 AM] Reading state from /var/www/html/laravel/terakhir_cms/~/.vscode-root/User/workspaceStorage/4e576486fa01cde5512edd858aeefc88/bmewburn.vscode-intelephense-client/40778516.
+[Info  - 3:36:07 AM] Initialised in 8752 ms
+[Info  - 3:36:13 AM] Indexing started.
+[Warn  - 3:36:13 AM] file:///var/www/html/laravel/terakhir_cms/vendor/fzaninotto/faker/src/Faker/Provider/nl_BE/Text.php is over the maximum file size of 1000000 bytes.
+[Info  - 3:36:13 AM] Indexing ended. 7 files indexed in 0s.
+[Info  - 3:36:13 AM] Writing state to /var/www/html/laravel/terakhir_cms/~/.vscode-root/User/workspaceStorage/4e576486fa01cde5512edd858aeefc88/bmewburn.vscode-intelephense-client/40778516.
+[Info  - 3:36:18 AM] Wrote state in 5.1s.
+[Info  - 3:52:41 AM] Indexing started.
+[Info  - 3:52:41 AM] Indexing ended. 1 files indexed in 0s.
+[Info  - 4:14:23 AM] Indexing started.
+[Info  - 4:14:24 AM] Indexing ended. 1 files indexed in 0s.
+[Info  - 4:19:01 AM] Indexing started.
+[Info  - 4:19:01 AM] Indexing ended. 1 files indexed in 0s.
+[Info  - 4:24:04 AM] Indexing started.
+[Info  - 4:24:05 AM] Indexing ended. 1 files indexed in 0s.
+[Info  - 4:28:36 AM] Indexing started.
+[Info  - 4:28:37 AM] Indexing ended. 1 files indexed in 0s.
+[Info  - 5:15:43 AM] Indexing started.
+[Info  - 5:15:43 AM] Indexing ended. 1 files indexed in 0s.
+[Info  - 5:19:35 AM] Indexing started.
+[Info  - 5:19:35 AM] Indexing ended. 1 files indexed in 0s.
+[Info  - 5:19:51 AM] Indexing started.
+[Info  - 5:19:51 AM] Indexing ended. 1 files indexed in 0s.
+[Info  - 6:31:29 AM] Indexing started.
+[Info  - 6:31:29 AM] Indexing ended. 1 files indexed in 0s.
+[Info  - 6:47:38 AM] Indexing started.
+[Info  - 6:47:39 AM] Indexing ended. 1 files indexed in 0s.
+[Info  - 6:57:49 AM] Indexing started.
+[Info  - 6:57:49 AM] Indexing ended. 1 files indexed in 0s.
+[Info  - 8:30:47 AM] Indexing started.
+[Info  - 8:30:47 AM] Indexing ended. 1 files indexed in 0s.
+[Info  - 9:18:34 AM] Indexing started.
+[Info  - 9:18:34 AM] Indexing ended. 1 files indexed in 0s.
+[Warn  - 9:21:08 AM] Error: ENOENT: no such file or directory, open '/var/www/html/laravel/terakhir_cms/app/Http/Requests/Profile/UpdateProfileRequest.php'
+[Info  - 9:21:24 AM] Indexing started.
+[Info  - 9:21:25 AM] Indexing ended. 1 files indexed in 0s.
+[Warn  - 9:24:38 AM] Error: ENOENT: no such file or directory, open '/var/www/html/laravel/terakhir_cms/app/Http/Requests/Users/UpdateProfileRequest.php'
+[Warn  - 9:24:54 AM] Error: ENOENT: no such file or directory, open '/var/www/html/laravel/terakhir_cms/app/Http/Requests/Users/UpdateProfileRequest.php'
+[Info  - 9:25:48 AM] Indexing started.
+[Info  - 9:25:48 AM] Indexing ended. 1 files indexed in 0s.
+[Info  - 9:47:31 AM] Indexing started.
+[Info  - 9:47:31 AM] Indexing ended. 1 files indexed in 0s.

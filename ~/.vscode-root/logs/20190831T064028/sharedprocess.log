@@ -1,0 +1,8 @@
+[2019-08-31 06:40:35.904] [sharedprocess] [info] main {"machineId":"a61fbd1978c1fafcde43c91032ef6a764d0668db94a9575052e8be6c2c71a2ee"}
+[2019-08-31 06:41:15.917] [sharedprocess] [info] Starting to clean up unused language packs.
+[2019-08-31 10:34:01.725] [sharedprocess] [info] Installing extension: davidanson.vscode-markdownlint
+[2019-08-31 10:34:05.329] [sharedprocess] [info] Downloaded extension: davidanson.vscode-markdownlint /tmp/d92b891b-9d5e-463f-b9df-6447969466a7
+[2019-08-31 10:34:06.312] [sharedprocess] [info] Extracted extension to /home/darkof/.vscode/extensions/.davidanson.vscode-markdownlint-0.30.2: davidanson.vscode-markdownlint
+[2019-08-31 10:34:06.314] [sharedprocess] [info] Renamed to /home/darkof/.vscode/extensions/davidanson.vscode-markdownlint-0.30.2
+[2019-08-31 10:34:06.324] [sharedprocess] [info] Installation completed. davidanson.vscode-markdownlint
+[2019-08-31 10:34:06.563] [sharedprocess] [info] Extensions installed successfully: davidanson.vscode-markdownlint

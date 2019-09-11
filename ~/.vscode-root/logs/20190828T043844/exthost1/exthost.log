@@ -1,0 +1,116 @@
+[2019-08-28 04:39:03.074] [exthost] [info] extension host started
+[2019-08-28 04:39:03.189] [exthost] [info] ExtensionService#_doActivateExtension aaron-bond.better-comments {"startup":false,"activationEvent":"onLanguage:plaintext"}
+[2019-08-28 04:39:03.189] [exthost] [info] ExtensionService#loadCommonJSModule /home/darkof/.vscode/extensions/aaron-bond.better-comments-2.0.5/out/extension
+[2019-08-28 04:39:03.230] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2019-08-28 04:39:03.230] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2019-08-28 04:39:03.272] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2019-08-28 04:39:03.272] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/dist/extension
+[2019-08-28 04:39:03.334] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2019-08-28 04:39:03.334] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/dist/main
+[2019-08-28 04:39:03.664] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2019-08-28 04:39:03.664] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2019-08-28 04:39:03.855] [exthost] [info] ExtensionService#_doActivateExtension CoenraadS.bracket-pair-colorizer-2 {"startup":true,"activationEvent":"*"}
+[2019-08-28 04:39:03.855] [exthost] [info] ExtensionService#loadCommonJSModule /home/darkof/.vscode/extensions/coenraads.bracket-pair-colorizer-2-0.0.28/out/src/extension
+[2019-08-28 04:39:04.068] [exthost] [info] ExtensionService#_doActivateExtension eamodio.gitlens {"startup":true,"activationEvent":"*"}
+[2019-08-28 04:39:04.068] [exthost] [info] ExtensionService#loadCommonJSModule /home/darkof/.vscode/extensions/eamodio.gitlens-9.9.3/dist/extension
+[2019-08-28 04:39:04.801] [exthost] [info] ExtensionService#_doActivateExtension EditorConfig.EditorConfig {"startup":true,"activationEvent":"*"}
+[2019-08-28 04:39:04.801] [exthost] [info] ExtensionService#loadCommonJSModule /home/darkof/.vscode/extensions/editorconfig.editorconfig-0.13.0/out/src/editorConfigMain
+[2019-08-28 04:39:05.695] [exthost] [info] ExtensionService#_doActivateExtension Equinusocio.vsc-material-theme {"startup":true,"activationEvent":"*"}
+[2019-08-28 04:39:05.695] [exthost] [info] ExtensionService#loadCommonJSModule /home/darkof/.vscode/extensions/equinusocio.vsc-material-theme-30.0.0/out/src/material.theme.config
+[2019-08-28 04:39:06.512] [exthost] [info] ExtensionService#_doActivateExtension fabiospampinato.vscode-todo-plus {"startup":true,"activationEvent":"*"}
+[2019-08-28 04:39:06.512] [exthost] [info] ExtensionService#loadCommonJSModule /home/darkof/.vscode/extensions/fabiospampinato.vscode-todo-plus-4.14.0/out/extension.js
+[2019-08-28 04:39:06.995] [exthost] [info] ExtensionService#_doActivateExtension gornivv.vscode-flutter-files {"startup":true,"activationEvent":"*"}
+[2019-08-28 04:39:06.995] [exthost] [info] ExtensionService#loadCommonJSModule /home/darkof/.vscode/extensions/gornivv.vscode-flutter-files-1.4.0/out/extension.js
+[2019-08-28 04:39:07.106] [exthost] [info] ExtensionService#_doActivateExtension hoovercj.vscode-power-mode {"startup":true,"activationEvent":"*"}
+[2019-08-28 04:39:07.106] [exthost] [info] ExtensionService#loadCommonJSModule /home/darkof/.vscode/extensions/hoovercj.vscode-power-mode-2.2.0/out/src/extension
+[2019-08-28 04:39:07.321] [exthost] [info] ExtensionService#_doActivateExtension jeroen-meijer.pubspec-assist {"startup":true,"activationEvent":"*"}
+[2019-08-28 04:39:07.321] [exthost] [info] ExtensionService#loadCommonJSModule /home/darkof/.vscode/extensions/jeroen-meijer.pubspec-assist-0.3.6/out/extension
+[2019-08-28 04:39:07.737] [exthost] [info] ExtensionService#_doActivateExtension metaseed.metago {"startup":true,"activationEvent":"*"}
+[2019-08-28 04:39:07.737] [exthost] [info] ExtensionService#loadCommonJSModule /home/darkof/.vscode/extensions/metaseed.metago-2.11.0/out/src/extension
+[2019-08-28 04:39:07.820] [exthost] [info] ExtensionService#_doActivateExtension mhutchie.git-graph {"startup":true,"activationEvent":"*"}
+[2019-08-28 04:39:07.820] [exthost] [info] ExtensionService#loadCommonJSModule /home/darkof/.vscode/extensions/mhutchie.git-graph-1.13.0/out/extension.js
+[2019-08-28 04:39:08.149] [exthost] [info] ExtensionService#_doActivateExtension oderwat.indent-rainbow {"startup":true,"activationEvent":"*"}
+[2019-08-28 04:39:08.149] [exthost] [info] ExtensionService#loadCommonJSModule /home/darkof/.vscode/extensions/oderwat.indent-rainbow-7.4.0/out/extension
+[2019-08-28 04:39:08.153] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme {"startup":true,"activationEvent":"*"}
+[2019-08-28 04:39:08.153] [exthost] [info] ExtensionService#loadCommonJSModule /home/darkof/.vscode/extensions/pkief.material-icon-theme-3.8.1/dist/extension
+[2019-08-28 04:39:08.236] [exthost] [info] ExtensionService#_doActivateExtension Shan.code-settings-sync {"startup":true,"activationEvent":"*"}
+[2019-08-28 04:39:08.236] [exthost] [info] ExtensionService#loadCommonJSModule /home/darkof/.vscode/extensions/shan.code-settings-sync-3.4.2/out/extension.js
+[2019-08-28 04:39:08.826] [exthost] [info] ExtensionService#_doActivateExtension shardulm94.trailing-spaces {"startup":true,"activationEvent":"*"}
+[2019-08-28 04:39:08.826] [exthost] [info] ExtensionService#loadCommonJSModule /home/darkof/.vscode/extensions/shardulm94.trailing-spaces-0.3.1/out/src/extension
+[2019-08-28 04:39:08.912] [exthost] [info] ExtensionService#_doActivateExtension slevesque.vscode-multiclip {"startup":true,"activationEvent":"*"}
+[2019-08-28 04:39:08.912] [exthost] [info] ExtensionService#loadCommonJSModule /home/darkof/.vscode/extensions/slevesque.vscode-multiclip-0.1.5/out/src/extension
+[2019-08-28 04:39:08.939] [exthost] [info] ExtensionService#_doActivateExtension TzachOvadia.todo-list {"startup":true,"activationEvent":"*"}
+[2019-08-28 04:39:08.939] [exthost] [info] ExtensionService#loadCommonJSModule /home/darkof/.vscode/extensions/tzachovadia.todo-list-1.5.0/out/src/extension
+[2019-08-28 04:39:09.428] [exthost] [info] ExtensionService#_doActivateExtension vincaslt.highlight-matching-tag {"startup":true,"activationEvent":"*"}
+[2019-08-28 04:39:09.428] [exthost] [info] ExtensionService#loadCommonJSModule /home/darkof/.vscode/extensions/vincaslt.highlight-matching-tag-0.9.3/out/src/extension
+[2019-08-28 04:39:09.496] [exthost] [info] ExtensionService#_doActivateExtension wayou.vscode-todo-highlight {"startup":true,"activationEvent":"*"}
+[2019-08-28 04:39:09.496] [exthost] [info] ExtensionService#loadCommonJSModule /home/darkof/.vscode/extensions/wayou.vscode-todo-highlight-1.0.4/src/extension
+[2019-08-28 04:39:09.536] [exthost] [info] eager extensions activated
+[2019-08-28 04:39:11.937] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features {"startup":false,"activationEvent":"onLanguage:html"}
+[2019-08-28 04:39:11.937] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/html-language-features/client/dist/htmlMain
+[2019-08-28 04:39:20.505] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2019-08-28 04:39:20.505] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/configuration-editing/dist/extension
+[2019-08-28 04:39:20.701] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2019-08-28 04:39:20.703] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/json-language-features/client/dist/jsonMain
+[2019-08-28 04:39:21.528] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2019-08-28 04:39:21.532] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/typescript-language-features/dist/extension
+[2019-08-28 04:40:05.055] [exthost] [info] extension host started
+[2019-08-28 04:40:05.120] [exthost] [info] ExtensionService#_doActivateExtension aaron-bond.better-comments {"startup":false,"activationEvent":"onLanguage:plaintext"}
+[2019-08-28 04:40:05.120] [exthost] [info] ExtensionService#loadCommonJSModule /home/darkof/.vscode/extensions/aaron-bond.better-comments-2.0.5/out/extension
+[2019-08-28 04:40:05.140] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2019-08-28 04:40:05.140] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2019-08-28 04:40:05.493] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2019-08-28 04:40:05.493] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/dist/extension
+[2019-08-28 04:40:05.679] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2019-08-28 04:40:05.679] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/dist/main
+[2019-08-28 04:40:06.919] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2019-08-28 04:40:06.919] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2019-08-28 04:40:07.229] [exthost] [info] ExtensionService#_doActivateExtension CoenraadS.bracket-pair-colorizer-2 {"startup":true,"activationEvent":"*"}
+[2019-08-28 04:40:07.229] [exthost] [info] ExtensionService#loadCommonJSModule /home/darkof/.vscode/extensions/coenraads.bracket-pair-colorizer-2-0.0.28/out/src/extension
+[2019-08-28 04:40:07.771] [exthost] [info] ExtensionService#_doActivateExtension eamodio.gitlens {"startup":true,"activationEvent":"*"}
+[2019-08-28 04:40:07.771] [exthost] [info] ExtensionService#loadCommonJSModule /home/darkof/.vscode/extensions/eamodio.gitlens-9.9.3/dist/extension
+[2019-08-28 04:40:08.667] [exthost] [info] ExtensionService#_doActivateExtension EditorConfig.EditorConfig {"startup":true,"activationEvent":"*"}
+[2019-08-28 04:40:08.681] [exthost] [info] ExtensionService#loadCommonJSModule /home/darkof/.vscode/extensions/editorconfig.editorconfig-0.13.0/out/src/editorConfigMain
+[2019-08-28 04:40:09.536] [exthost] [info] ExtensionService#_doActivateExtension Equinusocio.vsc-material-theme {"startup":true,"activationEvent":"*"}
+[2019-08-28 04:40:09.552] [exthost] [info] ExtensionService#loadCommonJSModule /home/darkof/.vscode/extensions/equinusocio.vsc-material-theme-30.0.0/out/src/material.theme.config
+[2019-08-28 04:40:09.821] [exthost] [info] ExtensionService#_doActivateExtension fabiospampinato.vscode-todo-plus {"startup":true,"activationEvent":"*"}
+[2019-08-28 04:40:09.831] [exthost] [info] ExtensionService#loadCommonJSModule /home/darkof/.vscode/extensions/fabiospampinato.vscode-todo-plus-4.14.0/out/extension.js
+[2019-08-28 04:40:11.949] [exthost] [info] ExtensionService#_doActivateExtension gornivv.vscode-flutter-files {"startup":true,"activationEvent":"*"}
+[2019-08-28 04:40:11.949] [exthost] [info] ExtensionService#loadCommonJSModule /home/darkof/.vscode/extensions/gornivv.vscode-flutter-files-1.4.0/out/extension.js
+[2019-08-28 04:40:12.323] [exthost] [info] ExtensionService#_doActivateExtension hoovercj.vscode-power-mode {"startup":true,"activationEvent":"*"}
+[2019-08-28 04:40:12.325] [exthost] [info] ExtensionService#loadCommonJSModule /home/darkof/.vscode/extensions/hoovercj.vscode-power-mode-2.2.0/out/src/extension
+[2019-08-28 04:40:12.761] [exthost] [info] ExtensionService#_doActivateExtension jeroen-meijer.pubspec-assist {"startup":true,"activationEvent":"*"}
+[2019-08-28 04:40:12.761] [exthost] [info] ExtensionService#loadCommonJSModule /home/darkof/.vscode/extensions/jeroen-meijer.pubspec-assist-0.3.6/out/extension
+[2019-08-28 04:40:13.515] [exthost] [info] ExtensionService#_doActivateExtension metaseed.metago {"startup":true,"activationEvent":"*"}
+[2019-08-28 04:40:13.515] [exthost] [info] ExtensionService#loadCommonJSModule /home/darkof/.vscode/extensions/metaseed.metago-2.11.0/out/src/extension
+[2019-08-28 04:40:13.808] [exthost] [info] ExtensionService#_doActivateExtension mhutchie.git-graph {"startup":true,"activationEvent":"*"}
+[2019-08-28 04:40:13.808] [exthost] [info] ExtensionService#loadCommonJSModule /home/darkof/.vscode/extensions/mhutchie.git-graph-1.13.0/out/extension.js
+[2019-08-28 04:40:14.239] [exthost] [info] ExtensionService#_doActivateExtension oderwat.indent-rainbow {"startup":true,"activationEvent":"*"}
+[2019-08-28 04:40:14.239] [exthost] [info] ExtensionService#loadCommonJSModule /home/darkof/.vscode/extensions/oderwat.indent-rainbow-7.4.0/out/extension
+[2019-08-28 04:40:14.251] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme {"startup":true,"activationEvent":"*"}
+[2019-08-28 04:40:14.252] [exthost] [info] ExtensionService#loadCommonJSModule /home/darkof/.vscode/extensions/pkief.material-icon-theme-3.8.1/dist/extension
+[2019-08-28 04:40:14.452] [exthost] [info] ExtensionService#_doActivateExtension Shan.code-settings-sync {"startup":true,"activationEvent":"*"}
+[2019-08-28 04:40:14.511] [exthost] [info] ExtensionService#loadCommonJSModule /home/darkof/.vscode/extensions/shan.code-settings-sync-3.4.2/out/extension.js
+[2019-08-28 04:40:16.937] [exthost] [info] ExtensionService#_doActivateExtension shardulm94.trailing-spaces {"startup":true,"activationEvent":"*"}
+[2019-08-28 04:40:16.937] [exthost] [info] ExtensionService#loadCommonJSModule /home/darkof/.vscode/extensions/shardulm94.trailing-spaces-0.3.1/out/src/extension
+[2019-08-28 04:40:17.234] [exthost] [info] ExtensionService#_doActivateExtension slevesque.vscode-multiclip {"startup":true,"activationEvent":"*"}
+[2019-08-28 04:40:17.234] [exthost] [info] ExtensionService#loadCommonJSModule /home/darkof/.vscode/extensions/slevesque.vscode-multiclip-0.1.5/out/src/extension
+[2019-08-28 04:40:17.258] [exthost] [info] ExtensionService#_doActivateExtension TzachOvadia.todo-list {"startup":true,"activationEvent":"*"}
+[2019-08-28 04:40:17.258] [exthost] [info] ExtensionService#loadCommonJSModule /home/darkof/.vscode/extensions/tzachovadia.todo-list-1.5.0/out/src/extension
+[2019-08-28 04:40:17.964] [exthost] [info] ExtensionService#_doActivateExtension vincaslt.highlight-matching-tag {"startup":true,"activationEvent":"*"}
+[2019-08-28 04:40:17.964] [exthost] [info] ExtensionService#loadCommonJSModule /home/darkof/.vscode/extensions/vincaslt.highlight-matching-tag-0.9.3/out/src/extension
+[2019-08-28 04:40:18.034] [exthost] [info] ExtensionService#_doActivateExtension wayou.vscode-todo-highlight {"startup":true,"activationEvent":"*"}
+[2019-08-28 04:40:18.034] [exthost] [info] ExtensionService#loadCommonJSModule /home/darkof/.vscode/extensions/wayou.vscode-todo-highlight-1.0.4/src/extension
+[2019-08-28 04:40:18.078] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2019-08-28 04:40:18.078] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/configuration-editing/dist/extension
+[2019-08-28 04:40:18.103] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2019-08-28 04:40:18.103] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/json-language-features/client/dist/jsonMain
+[2019-08-28 04:40:18.461] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2019-08-28 04:40:18.461] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/typescript-language-features/dist/extension
+[2019-08-28 04:40:23.477] [exthost] [info] ExtensionService#_doActivateExtension felixfbecker.php-intellisense {"startup":true,"activationEvent":"workspaceContains:**/*.php"}
+[2019-08-28 04:40:23.477] [exthost] [info] ExtensionService#loadCommonJSModule /home/darkof/.vscode/extensions/felixfbecker.php-intellisense-2.3.10/out/extension
+[2019-08-28 04:40:24.318] [exthost] [info] ExtensionService#_doActivateExtension ryannaddy.laravel-artisan {"startup":true,"activationEvent":"workspaceContains:**/artisan"}
+[2019-08-28 04:40:24.318] [exthost] [info] ExtensionService#loadCommonJSModule /home/darkof/.vscode/extensions/ryannaddy.laravel-artisan-0.0.25/out/src/extension
+[2019-08-28 04:40:28.244] [exthost] [info] eager extensions activated
+[2019-08-28 04:41:02.324] [exthost] [info] ExtensionService#_doActivateExtension onecentlin.laravel-blade {"startup":false,"activationEvent":"onLanguage:blade"}
+[2019-08-28 04:41:02.324] [exthost] [info] ExtensionService#loadCommonJSModule /home/darkof/.vscode/extensions/onecentlin.laravel-blade-1.20.0/out/src/extension

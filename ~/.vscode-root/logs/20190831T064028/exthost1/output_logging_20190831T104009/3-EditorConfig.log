@@ -1,0 +1,10 @@
+Initializing document watcher...
+Detected change in configuration: {}
+terakhir_cms/resources/views/layouts/app.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/layouts/app.blade.php: Using EditorConfig core...
+resources/views/layouts/app.blade.php: setEndOfLine(LF)
+resources/views/layouts/app.blade.php: editor.action.trimTrailingWhitespace
+terakhir_cms/resources/views/layouts/app.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/layouts/app.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/layouts/app.blade.php: {"insertSpaces":true,"tabSize":4}
+terakhir_cms/resources/views/layouts/app.blade.php: {"insertSpaces":true,"tabSize":4}

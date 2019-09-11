@@ -1,0 +1,1 @@
+[2019-09-02 16:34:56:041] [/var/www/html/laravel/terakhir_cms/resources/views] Git Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false -c color.status=false status --porcelain=v2 -- welcome.blade.php • not a git repository (or any of the parent directories): .git • 27 ms

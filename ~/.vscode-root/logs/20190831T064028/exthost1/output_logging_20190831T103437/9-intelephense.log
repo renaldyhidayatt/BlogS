@@ -1,0 +1,10 @@
+[Info  - 10:34:37 AM] Initialising intelephense 1.2.2
+[Info  - 10:34:37 AM] Reading state from /var/www/html/laravel/terakhir_cms/~/.vscode-root/User/workspaceStorage/4e576486fa01cde5512edd858aeefc88/bmewburn.vscode-intelephense-client/40778516.
+[Info  - 10:34:38 AM] Initialised in 1540 ms
+[Info  - 10:34:39 AM] Indexing started.
+[Warn  - 10:34:39 AM] file:///var/www/html/laravel/terakhir_cms/vendor/fzaninotto/faker/src/Faker/Provider/nl_BE/Text.php is over the maximum file size of 1000000 bytes.
+[Info  - 10:34:40 AM] Indexing ended. 14 files indexed in 0s.
+[Info  - 10:34:40 AM] Writing state to /var/www/html/laravel/terakhir_cms/~/.vscode-root/User/workspaceStorage/4e576486fa01cde5512edd858aeefc88/bmewburn.vscode-intelephense-client/40778516.
+[Info  - 10:34:41 AM] Wrote state in 1.5s.
+[Info  - 10:35:46 AM] Indexing started.
+[Info  - 10:35:46 AM] Indexing ended. 1 files indexed in 0s.

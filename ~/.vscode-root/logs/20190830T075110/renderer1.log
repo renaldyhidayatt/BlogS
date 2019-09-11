@@ -1,0 +1,43 @@
+[2019-08-30 07:51:29.663] [renderer1] [error] Error: [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/var/www/html/laravel/terakhir_cms/.vscode'
+[2019-08-30 07:51:29.664] [renderer1] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/var/www/html/laravel/terakhir_cms/.vscode'
+[2019-08-30 07:51:42.867] [renderer1] [error] Error: [File Watcher (chockidar)] Inotify limit reached (ENOSPC)
+[2019-08-30 07:51:42.959] [renderer1] [error] [File Watcher (chockidar)] Inotify limit reached (ENOSPC)
+[2019-08-30 07:59:54.972] [renderer1] [error] Error: [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/var/www/html/laravel/terakhir_cms/.vscode'
+[2019-08-30 07:59:54.972] [renderer1] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/var/www/html/laravel/terakhir_cms/.vscode'
+[2019-08-30 07:59:59.849] [renderer1] [error] Error: [File Watcher (chockidar)] Inotify limit reached (ENOSPC)
+[2019-08-30 07:59:59.888] [renderer1] [error] [File Watcher (chockidar)] Inotify limit reached (ENOSPC)
+[2019-08-30 08:50:49.688] [renderer1] [error] Tree input not set: Error: Tree input not set
+    at Y.updateChildren (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:958:849)
+    at e.<anonymous> (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:4879:509)
+    at Generator.next (<anonymous>)
+    at r (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:35:293)
+[2019-08-30 09:59:47.647] [renderer1] [error] Cannot read property 'name' of null: TypeError: Cannot read property 'name' of null
+	at F (/home/darkof/.vscode/extensions/bmewburn.vscode-intelephense-client-1.2.2/lib/extension.js:1:177141)
+	at F (/home/darkof/.vscode/extensions/bmewburn.vscode-intelephense-client-1.2.2/lib/extension.js:1:177286)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/darkof/.vscode/extensions/bmewburn.vscode-intelephense-client-1.2.2/lib/extension.js:1:181286)
+	at module.exports.registerLanguageProvider.t.sendRequest.then.e (/home/darkof/.vscode/extensions/bmewburn.vscode-intelephense-client-1.2.2/lib/extension.js:1:39665)
+[2019-08-30 09:59:49.953] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:346:965)
+	at new C (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:346:914)
+	at new C (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:335:813)
+	at asSymbolInformation (/home/darkof/.vscode/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:347:22)
+	at values.map.information (/home/darkof/.vscode/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:336:42)
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/home/darkof/.vscode/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:336:23)
+	at registerLanguageProvider.client.sendRequest.then (/home/darkof/.vscode/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/client.js:1002:62)
+[2019-08-30 10:01:01.914] [renderer1] [error] Cannot read property 'name' of null: TypeError: Cannot read property 'name' of null
+	at F (/home/darkof/.vscode/extensions/bmewburn.vscode-intelephense-client-1.2.2/lib/extension.js:1:177141)
+	at F (/home/darkof/.vscode/extensions/bmewburn.vscode-intelephense-client-1.2.2/lib/extension.js:1:177286)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/darkof/.vscode/extensions/bmewburn.vscode-intelephense-client-1.2.2/lib/extension.js:1:181286)
+	at module.exports.registerLanguageProvider.t.sendRequest.then.e (/home/darkof/.vscode/extensions/bmewburn.vscode-intelephense-client-1.2.2/lib/extension.js:1:39665)
+[2019-08-30 10:01:03.954] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:346:965)
+	at new C (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:346:914)
+	at new C (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:335:813)
+	at asSymbolInformation (/home/darkof/.vscode/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:347:22)
+	at values.map.information (/home/darkof/.vscode/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:336:42)
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/home/darkof/.vscode/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/protocolConverter.js:336:23)
+	at registerLanguageProvider.client.sendRequest.then (/home/darkof/.vscode/extensions/felixfbecker.php-intellisense-2.3.10/node_modules/vscode-languageclient/lib/client.js:1002:62)

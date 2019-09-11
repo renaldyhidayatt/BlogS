@@ -1,0 +1,14 @@
+[2019-09-02 21:12:28.233] [sharedprocess] [info] main {"machineId":"a61fbd1978c1fafcde43c91032ef6a764d0668db94a9575052e8be6c2c71a2ee"}
+[2019-09-02 21:12:47.986] [sharedprocess] [info] Installing extension: mhutchie.git-graph
+[2019-09-02 21:12:47.987] [sharedprocess] [info] Installing extension: vincaslt.highlight-matching-tag
+[2019-09-02 21:12:56.279] [sharedprocess] [info] Downloaded extension: mhutchie.git-graph /tmp/3f82c6f8-95b0-4aa1-9a5c-f700209e6435
+[2019-09-02 21:12:56.374] [sharedprocess] [info] Downloaded extension: vincaslt.highlight-matching-tag /tmp/0a4c1747-75dd-4042-9a31-74292ff09dd5
+[2019-09-02 21:12:56.874] [sharedprocess] [info] Extracted extension to /home/darkof/.vscode/extensions/.vincaslt.highlight-matching-tag-0.9.4: vincaslt.highlight-matching-tag
+[2019-09-02 21:12:56.875] [sharedprocess] [info] Renamed to /home/darkof/.vscode/extensions/vincaslt.highlight-matching-tag-0.9.4
+[2019-09-02 21:12:56.879] [sharedprocess] [info] Installation completed. vincaslt.highlight-matching-tag
+[2019-09-02 21:12:57.182] [sharedprocess] [info] Extracted extension to /home/darkof/.vscode/extensions/.mhutchie.git-graph-1.14.0: mhutchie.git-graph
+[2019-09-02 21:12:57.182] [sharedprocess] [info] Renamed to /home/darkof/.vscode/extensions/mhutchie.git-graph-1.14.0
+[2019-09-02 21:12:57.191] [sharedprocess] [info] Extensions installed successfully: vincaslt.highlight-matching-tag
+[2019-09-02 21:12:57.222] [sharedprocess] [info] Installation completed. mhutchie.git-graph
+[2019-09-02 21:12:57.375] [sharedprocess] [info] Extensions installed successfully: mhutchie.git-graph
+[2019-09-02 21:13:08.266] [sharedprocess] [info] Starting to clean up unused language packs.
